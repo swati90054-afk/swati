@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,City,Category,Product,Quantity,Unit_Price_INR,Discount_Percent,Discount_Amount_INR,Final_Unit_Price_INR,Order_Value_INR,Payment_Method,Order_Status
+FK2025000001,2025-03-13,CUST00378,Delhi,Electronics,Laptop,2,32277,5,1613.85,30663.15,61326.3,Net Banking,Delivered
+FK2025000002,2025-04-22,CUST00120,Jaipur,Electronics,Laptop,1,106396,0,0.0,106396.0,106396.0,Net Banking,Delivered
+FK2025000003,2025-08-03,CUST00113,Lucknow,Electronics,Smartphone,1,45780,25,11445.0,34335.0,34335.0,Net Banking,Returned
+FK2025000004,2025-06-24,CUST00143,Bengaluru,Fashion,Jeans,2,825,5,41.25,783.75,1567.5,Credit Card,Cancelled
+FK2025000005,2025-06-26,CUST00310,Chennai,Home & Kitchen,Mixer Grinder,1,2336,0,0.0,2336.0,2336.0,UPI,Delivered
+FK2025000006,2025-10-10,CUST00151,Ahmedabad,Beauty,Face Wash,1,648,15,97.2,550.8,550.8,Debit Card,Delivered
+FK2025000007,2025-05-29,CUST00041,Hyderabad,Sports,Cricket Bat,2,2374,0,0.0,2374.0,4748.0,UPI,Delivered
+FK2025000008,2025-03-25,CUST00190,Kolkata,Home & Kitchen,Bedsheet,1,1068,30,320.4,747.6,747.6,Credit Card,Delivered
+FK2025000009,2025-05-06,CUST00084,Lucknow,Fashion,Jeans,1,1091,5,54.55,1036.45,1036.45,Cash on Delivery,Returned
+FK2025000010,2025-04-28,CUST00421,Mumbai,Fashion,Jeans,1,1698,30,509.4,1188.6,1188.6,Debit Card,Delivered
+FK2025000011,2025-04-19,CUST00336,Lucknow,Home & Kitchen,Bedsheet,1,1047,20,209.4,837.6,837.6,Cash on Delivery,Delivered
+FK2025000012,2025-10-03,CUST00135,Ahmedabad,Beauty,Face Wash,1,245,5,12.25,232.75,232.75,Cash on Delivery,Returned
+FK2025000013,2025-09-10,CUST00047,Mumbai,Sports,Cricket Bat,1,4070,5,203.5,3866.5,3866.5,UPI,Returned
+FK2025000014,2025-02-02,CUST00198,Pune,Electronics,Headphones,2,3120,15,468.0,2652.0,5304.0,Net Banking,Returned
+FK2025000015,2025-12-15,CUST00370,Delhi,Beauty,Face Wash,1,640,20,128.0,512.0,512.0,Net Banking,Delivered
+FK2025000016,2025-08-21,CUST00002,Chennai,Fashion,Jeans,1,2192,15,328.8,1863.2,1863.2,Net Banking,Delivered
+FK2025000017,2025-11-24,CUST00260,Ahmedabad,Electronics,Headphones,2,8816,30,2644.8,6171.2,12342.4,Credit Card,Delivered
+FK2025000018,2025-01-01,CUST00307,Kolkata,Electronics,Headphones,2,6625,20,1325.0,5300.0,10600.0,Cash on Delivery,Returned
+FK2025000019,2025-05-03,CUST00030,Hyderabad,Electronics,Smartphone,3,16330,30,4899.0,11431.0,34293.0,Net Banking,Delivered
+FK2025000020,2025-09-30,CUST00393,Bengaluru,Electronics,Laptop,2,40225,30,12067.5,28157.5,56315.0,Credit Card,Delivered
+FK2025000021,2025-08-05,CUST00494,Hyderabad,Beauty,Face Wash,1,661,20,132.2,528.8,528.8,Net Banking,Returned
+FK2025000022,2025-08-13,CUST00461,Jaipur,Fashion,T-Shirt,1,937,25,234.25,702.75,702.75,Cash on Delivery,Delivered
+FK2025000023,2025-10-29,CUST00284,Hyderabad,Electronics,Laptop,1,61492,10,6149.2,55342.8,55342.8,Net Banking,Delivered
+FK2025000024,2025-04-28,CUST00035,Mumbai,Fashion,T-Shirt,1,313,25,78.25,234.75,234.75,Debit Card,Delivered
+FK2025000025,2025-04-20,CUST00277,Bengaluru,Electronics,Laptop,1,96390,25,24097.5,72292.5,72292.5,Net Banking,Cancelled
+FK2025000026,2025-04-08,CUST00049,Delhi,Sports,Cricket Bat,1,4671,15,700.65,3970.35,3970.35,Cash on Delivery,Cancelled
+FK2025000027,2025-12-11,CUST00335,Delhi,Home & Kitchen,Mixer Grinder,1,4968,30,1490.4,3477.6,3477.6,UPI,Delivered
+FK2025000028,2025-05-08,CUST00099,Hyderabad,Home & Kitchen,Bedsheet,1,1990,30,597.0,1393.0,1393.0,Net Banking,Delivered
+FK2025000029,2025-05-08,CUST00448,Delhi,Beauty,Face Wash,1,242,10,24.2,217.8,217.8,Cash on Delivery,Cancelled
+FK2025000030,2025-02-17,CUST00475,Hyderabad,Books,Fiction Book,1,249,20,49.8,199.2,199.2,Credit Card,Delivered
+FK2025000031,2025-01-31,CUST00085,Pune,Home & Kitchen,Bedsheet,1,1493,30,447.9,1045.1,1045.1,UPI,Cancelled
+FK2025000032,2025-05-27,CUST00217,Jaipur,Home & Kitchen,Bedsheet,3,1042,30,312.6,729.4,2188.2,Cash on Delivery,Cancelled
+FK2025000033,2025-10-05,CUST00032,Kolkata,Electronics,Headphones,1,3610,0,0.0,3610.0,3610.0,UPI,Returned
+FK2025000034,2025-03-22,CUST00030,Jaipur,Electronics,Smartphone,1,47283,30,14184.9,33098.1,33098.1,UPI,Returned
+FK2025000035,2025-07-26,CUST00062,Ahmedabad,Electronics,Headphones,1,1621,25,405.25,1215.75,1215.75,Credit Card,Delivered
+FK2025000036,2025-12-03,CUST00299,Ahmedabad,Sports,Cricket Bat,1,5669,0,0.0,5669.0,5669.0,Net Banking,Cancelled
+FK2025000037,2025-05-03,CUST00136,Pune,Home & Kitchen,Mixer Grinder,1,3635,25,908.75,2726.25,2726.25,Credit Card,Delivered
+FK2025000038,2025-01-05,CUST00235,Ahmedabad,Fashion,Jeans,1,2671,30,801.3,1869.7,1869.7,Net Banking,Delivered
+FK2025000039,2025-03-09,CUST00478,Kolkata,Electronics,Laptop,1,38601,20,7720.2,30880.8,30880.8,UPI,Delivered
+FK2025000040,2025-12-27,CUST00155,Ahmedabad,Fashion,T-Shirt,1,1055,15,158.25,896.75,896.75,Net Banking,Returned
+FK2025000041,2025-03-10,CUST00136,Delhi,Electronics,Smartphone,2,52768,10,5276.8,47491.2,94982.4,UPI,Delivered
+FK2025000042,2025-06-25,CUST00105,Chennai,Books,Fiction Book,1,308,20,61.6,246.4,246.4,Net Banking,Delivered
+FK2025000043,2025-02-17,CUST00325,Pune,Beauty,Face Wash,2,356,30,106.8,249.2,498.4,Debit Card,Delivered
+FK2025000044,2025-03-24,CUST00380,Lucknow,Electronics,Smartphone,1,9231,5,461.55,8769.45,8769.45,Net Banking,Delivered
+FK2025000045,2025-10-07,CUST00019,Kolkata,Home & Kitchen,Bedsheet,1,1647,0,0.0,1647.0,1647.0,Net Banking,Delivered
+FK2025000046,2025-07-06,CUST00461,Mumbai,Books,Fiction Book,1,300,0,0.0,300.0,300.0,Debit Card,Delivered
+FK2025000047,2025-07-28,CUST00499,Ahmedabad,Fashion,T-Shirt,1,810,10,81.0,729.0,729.0,Credit Card,Returned
+FK2025000048,2025-07-31,CUST00013,Bengaluru,Fashion,T-Shirt,3,631,30,189.3,441.7,1325.1,Debit Card,Delivered
+FK2025000049,2025-05-17,CUST00082,Delhi,Home & Kitchen,Bedsheet,1,2141,25,535.25,1605.75,1605.75,Cash on Delivery,Delivered
+FK2025000050,2025-06-29,CUST00157,Hyderabad,Electronics,Smartphone,1,65267,5,3263.35,62003.65,62003.65,Credit Card,Cancelled
+FK2025000051,2025-02-05,CUST00496,Chennai,Electronics,Smartphone,1,52254,10,5225.4,47028.6,47028.6,Debit Card,Delivered
+FK2025000052,2025-06-19,CUST00481,Mumbai,Books,Fiction Book,1,558,30,167.4,390.6,390.6,UPI,Returned
+FK2025000053,2025-02-25,CUST00306,Pune,Fashion,Jeans,1,1530,10,153.0,1377.0,1377.0,Debit Card,Delivered
+FK2025000054,2025-07-17,CUST00461,Ahmedabad,Home & Kitchen,Mixer Grinder,1,5073,20,1014.6,4058.4,4058.4,Credit Card,Delivered
+FK2025000055,2025-10-03,CUST00352,Hyderabad,Fashion,Jeans,2,980,0,0.0,980.0,1960.0,Debit Card,Returned
+FK2025000056,2025-06-10,CUST00340,Delhi,Home & Kitchen,Bedsheet,3,642,10,64.2,577.8,1733.4,Debit Card,Returned
+FK2025000057,2025-12-23,CUST00152,Jaipur,Books,Fiction Book,1,465,10,46.5,418.5,418.5,Credit Card,Cancelled
+FK2025000058,2025-11-12,CUST00292,Chennai,Fashion,T-Shirt,1,1160,15,174.0,986.0,986.0,Cash on Delivery,Delivered
+FK2025000059,2025-10-24,CUST00311,Kolkata,Books,Fiction Book,1,149,5,7.45,141.55,141.55,Cash on Delivery,Cancelled
+FK2025000060,2025-03-28,CUST00338,Delhi,Beauty,Face Wash,1,551,20,110.2,440.8,440.8,Debit Card,Cancelled
+FK2025000061,2025-05-01,CUST00345,Chennai,Books,Fiction Book,1,828,10,82.8,745.2,745.2,Credit Card,Delivered
+FK2025000062,2025-11-09,CUST00436,Delhi,Fashion,T-Shirt,1,600,5,30.0,570.0,570.0,Cash on Delivery,Cancelled
+FK2025000063,2025-09-11,CUST00205,Hyderabad,Home & Kitchen,Bedsheet,1,2313,5,115.65,2197.35,2197.35,Credit Card,Cancelled
+FK2025000064,2025-08-06,CUST00113,Bengaluru,Electronics,Smartphone,2,67500,30,20250.0,47250.0,94500.0,Net Banking,Delivered
+FK2025000065,2025-08-22,CUST00069,Lucknow,Beauty,Face Wash,1,150,30,45.0,105.0,105.0,Net Banking,Delivered
+FK2025000066,2025-11-10,CUST00418,Jaipur,Books,Fiction Book,1,758,30,227.4,530.6,530.6,Cash on Delivery,Cancelled
+FK2025000067,2025-08-19,CUST00133,Hyderabad,Books,Fiction Book,2,605,25,151.25,453.75,907.5,Debit Card,Cancelled
+FK2025000068,2025-02-09,CUST00366,Chennai,Books,Fiction Book,1,645,10,64.5,580.5,580.5,Credit Card,Cancelled
+FK2025000069,2025-03-12,CUST00078,Hyderabad,Fashion,Jeans,1,2174,20,434.8,1739.2,1739.2,Cash on Delivery,Delivered
+FK2025000070,2025-10-05,CUST00239,Pune,Electronics,Headphones,1,4004,15,600.6,3403.4,3403.4,UPI,Delivered
+FK2025000071,2025-12-23,CUST00011,Ahmedabad,Fashion,T-Shirt,1,1159,30,347.7,811.3,811.3,Cash on Delivery,Returned
+FK2025000072,2025-08-03,CUST00276,Jaipur,Beauty,Face Wash,3,105,10,10.5,94.5,283.5,Net Banking,Cancelled
+FK2025000073,2025-01-15,CUST00200,Kolkata,Fashion,T-Shirt,1,1298,15,194.7,1103.3,1103.3,Cash on Delivery,Cancelled
+FK2025000074,2025-01-14,CUST00465,Pune,Electronics,Headphones,2,8156,20,1631.2,6524.8,13049.6,Net Banking,Returned
+FK2025000075,2025-08-25,CUST00094,Mumbai,Sports,Cricket Bat,1,1021,15,153.15,867.85,867.85,Debit Card,Delivered
+FK2025000076,2025-07-14,CUST00143,Pune,Home & Kitchen,Bedsheet,1,1169,10,116.9,1052.1,1052.1,Debit Card,Delivered
+FK2025000077,2025-06-29,CUST00115,Delhi,Electronics,Laptop,1,90643,20,18128.6,72514.4,72514.4,UPI,Delivered
+FK2025000078,2025-03-20,CUST00123,Bengaluru,Electronics,Smartphone,1,25204,0,0.0,25204.0,25204.0,Cash on Delivery,Returned
+FK2025000079,2025-07-08,CUST00086,Ahmedabad,Electronics,Laptop,3,102919,15,15437.85,87481.15,262443.45,Net Banking,Delivered
+FK2025000080,2025-01-14,CUST00476,Chennai,Electronics,Laptop,3,50464,0,0.0,50464.0,151392.0,Net Banking,Returned
+FK2025000081,2025-10-31,CUST00354,Hyderabad,Home & Kitchen,Bedsheet,3,1311,5,65.55,1245.45,3736.35,UPI,Delivered
+FK2025000082,2025-06-27,CUST00273,Pune,Fashion,Jeans,2,1294,20,258.8,1035.2,2070.4,Debit Card,Delivered
+FK2025000083,2025-09-08,CUST00055,Pune,Electronics,Laptop,1,95316,0,0.0,95316.0,95316.0,Debit Card,Cancelled
+FK2025000084,2025-11-30,CUST00139,Ahmedabad,Beauty,Face Wash,1,255,25,63.75,191.25,191.25,Net Banking,Returned
+FK2025000085,2025-05-18,CUST00166,Hyderabad,Beauty,Face Wash,1,575,25,143.75,431.25,431.25,UPI,Returned
+FK2025000086,2025-11-09,CUST00343,Pune,Fashion,Jeans,1,2645,15,396.75,2248.25,2248.25,Debit Card,Returned
+FK2025000087,2025-04-19,CUST00182,Chennai,Electronics,Smartphone,2,41393,5,2069.65,39323.35,78646.7,Debit Card,Cancelled
+FK2025000088,2025-02-13,CUST00124,Pune,Fashion,Jeans,1,1930,20,386.0,1544.0,1544.0,Cash on Delivery,Delivered
+FK2025000089,2025-08-18,CUST00406,Mumbai,Books,Fiction Book,1,395,25,98.75,296.25,296.25,UPI,Cancelled
+FK2025000090,2025-12-06,CUST00298,Kolkata,Fashion,Jeans,1,1706,5,85.3,1620.7,1620.7,Cash on Delivery,Delivered
+FK2025000091,2025-06-19,CUST00181,Lucknow,Books,Fiction Book,1,692,25,173.0,519.0,519.0,Debit Card,Returned
+FK2025000092,2025-06-11,CUST00062,Jaipur,Fashion,Jeans,1,1828,25,457.0,1371.0,1371.0,Credit Card,Delivered
+FK2025000093,2025-09-26,CUST00306,Chennai,Fashion,T-Shirt,2,742,10,74.2,667.8,1335.6,UPI,Returned
+FK2025000094,2025-01-08,CUST00363,Jaipur,Fashion,T-Shirt,1,905,5,45.25,859.75,859.75,Credit Card,Delivered
+FK2025000095,2025-12-24,CUST00484,Bengaluru,Fashion,Jeans,3,985,20,197.0,788.0,2364.0,Cash on Delivery,Delivered
+FK2025000096,2025-08-14,CUST00175,Bengaluru,Electronics,Laptop,1,30606,15,4590.9,26015.1,26015.1,UPI,Cancelled
+FK2025000097,2025-09-09,CUST00038,Ahmedabad,Fashion,Jeans,1,2755,0,0.0,2755.0,2755.0,UPI,Cancelled
+FK2025000098,2025-05-08,CUST00061,Jaipur,Electronics,Headphones,2,2943,10,294.3,2648.7,5297.4,Cash on Delivery,Delivered
+FK2025000099,2025-07-14,CUST00231,Lucknow,Sports,Cricket Bat,2,5682,5,284.1,5397.9,10795.8,Debit Card,Returned
+FK2025000100,2025-11-09,CUST00492,Delhi,Sports,Cricket Bat,1,4311,20,862.2,3448.8,3448.8,Credit Card,Delivered
+FK2025000101,2025-03-30,CUST00283,Delhi,Fashion,T-Shirt,1,840,5,42.0,798.0,798.0,Credit Card,Delivered
+FK2025000102,2025-05-30,CUST00017,Hyderabad,Electronics,Smartphone,1,35771,20,7154.2,28616.8,28616.8,Debit Card,Cancelled
+FK2025000103,2025-11-17,CUST00302,Hyderabad,Fashion,Jeans,1,2658,5,132.9,2525.1,2525.1,Cash on Delivery,Delivered
+FK2025000104,2025-03-14,CUST00037,Mumbai,Electronics,Laptop,1,100375,5,5018.75,95356.25,95356.25,Credit Card,Delivered
+FK2025000105,2025-12-25,CUST00207,Chennai,Fashion,Jeans,1,1981,15,297.15,1683.85,1683.85,Net Banking,Delivered
+FK2025000106,2025-08-10,CUST00377,Kolkata,Books,Fiction Book,1,654,20,130.8,523.2,523.2,Net Banking,Delivered
+FK2025000107,2025-10-28,CUST00487,Mumbai,Fashion,Jeans,1,904,25,226.0,678.0,678.0,Debit Card,Returned
+FK2025000108,2025-09-23,CUST00334,Lucknow,Sports,Cricket Bat,2,1128,5,56.4,1071.6,2143.2,Debit Card,Cancelled
+FK2025000109,2025-08-29,CUST00179,Pune,Electronics,Headphones,1,7640,15,1146.0,6494.0,6494.0,Debit Card,Delivered
+FK2025000110,2025-07-30,CUST00356,Lucknow,Home & Kitchen,Mixer Grinder,1,6988,5,349.4,6638.6,6638.6,Debit Card,Delivered
+FK2025000111,2025-02-15,CUST00162,Chennai,Home & Kitchen,Bedsheet,2,2165,0,0.0,2165.0,4330.0,Debit Card,Cancelled
+FK2025000112,2025-12-03,CUST00446,Jaipur,Electronics,Laptop,2,81975,30,24592.5,57382.5,114765.0,Cash on Delivery,Delivered
+FK2025000113,2025-09-13,CUST00321,Lucknow,Home & Kitchen,Bedsheet,1,610,10,61.0,549.0,549.0,UPI,Returned
+FK2025000114,2025-12-24,CUST00249,Delhi,Fashion,T-Shirt,1,845,10,84.5,760.5,760.5,UPI,Cancelled
+FK2025000115,2025-01-08,CUST00283,Pune,Sports,Cricket Bat,2,2759,10,275.9,2483.1,4966.2,UPI,Returned
+FK2025000116,2025-09-13,CUST00478,Chennai,Fashion,T-Shirt,1,531,0,0.0,531.0,531.0,Net Banking,Delivered
+FK2025000117,2025-08-22,CUST00283,Bengaluru,Fashion,Jeans,2,2500,15,375.0,2125.0,4250.0,Cash on Delivery,Delivered
+FK2025000118,2025-05-22,CUST00396,Pune,Fashion,T-Shirt,2,1339,5,66.95,1272.05,2544.1,Debit Card,Delivered
+FK2025000119,2025-10-28,CUST00297,Lucknow,Books,Fiction Book,2,422,10,42.2,379.8,759.6,Credit Card,Delivered
+FK2025000120,2025-10-06,CUST00194,Lucknow,Beauty,Face Wash,1,650,10,65.0,585.0,585.0,Debit Card,Returned
+FK2025000121,2025-01-23,CUST00163,Lucknow,Fashion,T-Shirt,1,788,5,39.4,748.6,748.6,Cash on Delivery,Cancelled
+FK2025000122,2025-09-11,CUST00494,Mumbai,Home & Kitchen,Bedsheet,2,1858,25,464.5,1393.5,2787.0,Credit Card,Delivered
+FK2025000123,2025-02-21,CUST00270,Lucknow,Books,Fiction Book,1,753,0,0.0,753.0,753.0,UPI,Cancelled
+FK2025000124,2025-08-29,CUST00401,Chennai,Electronics,Headphones,2,7216,5,360.8,6855.2,13710.4,Debit Card,Delivered
+FK2025000125,2025-12-12,CUST00440,Jaipur,Sports,Cricket Bat,1,4055,30,1216.5,2838.5,2838.5,Cash on Delivery,Delivered
+FK2025000126,2025-10-05,CUST00019,Ahmedabad,Home & Kitchen,Mixer Grinder,2,6633,30,1989.9,4643.1,9286.2,UPI,Cancelled
+FK2025000127,2025-08-11,CUST00051,Delhi,Fashion,T-Shirt,4,887,25,221.75,665.25,2661.0,Cash on Delivery,Delivered
+FK2025000128,2025-01-29,CUST00151,Kolkata,Electronics,Headphones,2,5405,0,0.0,5405.0,10810.0,Debit Card,Delivered
+FK2025000129,2025-12-16,CUST00406,Bengaluru,Home & Kitchen,Bedsheet,1,797,15,119.55,677.45,677.45,Credit Card,Returned
+FK2025000130,2025-12-16,CUST00124,Lucknow,Electronics,Headphones,1,1792,15,268.8,1523.2,1523.2,Net Banking,Returned
+FK2025000131,2025-05-11,CUST00342,Mumbai,Electronics,Headphones,1,4303,10,430.3,3872.7,3872.7,Cash on Delivery,Cancelled
+FK2025000132,2025-06-03,CUST00328,Pune,Fashion,Jeans,1,1446,10,144.6,1301.4,1301.4,Debit Card,Returned
+FK2025000133,2025-02-24,CUST00122,Pune,Beauty,Face Wash,1,408,15,61.2,346.8,346.8,Net Banking,Cancelled
+FK2025000134,2025-01-12,CUST00425,Pune,Home & Kitchen,Mixer Grinder,1,6207,25,1551.75,4655.25,4655.25,Debit Card,Delivered
+FK2025000135,2025-11-07,CUST00382,Lucknow,Electronics,Smartphone,2,46087,30,13826.1,32260.9,64521.8,Debit Card,Delivered
+FK2025000136,2025-05-09,CUST00348,Bengaluru,Fashion,T-Shirt,1,1020,5,51.0,969.0,969.0,UPI,Returned
+FK2025000137,2025-07-06,CUST00375,Bengaluru,Electronics,Smartphone,2,29245,0,0.0,29245.0,58490.0,UPI,Returned
+FK2025000138,2025-03-09,CUST00403,Jaipur,Fashion,Jeans,2,2137,5,106.85,2030.15,4060.3,Debit Card,Delivered
+FK2025000139,2025-05-12,CUST00468,Lucknow,Books,Fiction Book,2,662,30,198.6,463.4,926.8,Debit Card,Delivered
+FK2025000140,2025-04-26,CUST00441,Pune,Home & Kitchen,Mixer Grinder,1,2442,0,0.0,2442.0,2442.0,Net Banking,Delivered
+FK2025000141,2025-10-02,CUST00064,Lucknow,Home & Kitchen,Mixer Grinder,2,2238,0,0.0,2238.0,4476.0,Debit Card,Delivered
+FK2025000142,2025-12-12,CUST00120,Lucknow,Fashion,Jeans,2,2359,10,235.9,2123.1,4246.2,UPI,Delivered
+FK2025000143,2025-11-28,CUST00033,Lucknow,Sports,Cricket Bat,1,5398,20,1079.6,4318.4,4318.4,Debit Card,Delivered
+FK2025000144,2025-09-10,CUST00060,Delhi,Home & Kitchen,Bedsheet,1,737,0,0.0,737.0,737.0,Credit Card,Delivered
+FK2025000145,2025-08-03,CUST00301,Bengaluru,Books,Fiction Book,1,287,10,28.7,258.3,258.3,Cash on Delivery,Returned
+FK2025000146,2025-12-20,CUST00190,Hyderabad,Electronics,Laptop,1,93138,10,9313.8,83824.2,83824.2,Cash on Delivery,Delivered
+FK2025000147,2025-10-06,CUST00462,Kolkata,Beauty,Face Wash,2,340,0,0.0,340.0,680.0,UPI,Delivered
+FK2025000148,2025-02-16,CUST00340,Hyderabad,Home & Kitchen,Bedsheet,1,1064,0,0.0,1064.0,1064.0,Net Banking,Cancelled
+FK2025000149,2025-10-17,CUST00106,Delhi,Electronics,Smartphone,2,12313,5,615.65,11697.35,23394.7,Net Banking,Delivered
+FK2025000150,2025-06-18,CUST00397,Bengaluru,Fashion,T-Shirt,1,1499,30,449.7,1049.3,1049.3,Net Banking,Delivered
+FK2025000151,2025-10-04,CUST00129,Bengaluru,Electronics,Smartphone,2,27170,5,1358.5,25811.5,51623.0,UPI,Delivered
+FK2025000152,2025-10-29,CUST00166,Mumbai,Electronics,Smartphone,1,17636,30,5290.8,12345.2,12345.2,Credit Card,Delivered
+FK2025000153,2025-02-28,CUST00382,Delhi,Fashion,Jeans,1,1013,15,151.95,861.05,861.05,Cash on Delivery,Returned
+FK2025000154,2025-09-15,CUST00114,Ahmedabad,Beauty,Face Wash,1,469,0,0.0,469.0,469.0,UPI,Cancelled
+FK2025000155,2025-09-03,CUST00434,Pune,Books,Fiction Book,1,457,0,0.0,457.0,457.0,Cash on Delivery,Delivered
+FK2025000156,2025-02-11,CUST00165,Ahmedabad,Electronics,Laptop,2,93259,15,13988.85,79270.15,158540.3,Credit Card,Delivered
+FK2025000157,2025-10-08,CUST00365,Kolkata,Electronics,Laptop,1,45539,25,11384.75,34154.25,34154.25,Cash on Delivery,Returned
+FK2025000158,2025-08-09,CUST00051,Delhi,Sports,Cricket Bat,1,5145,20,1029.0,4116.0,4116.0,Net Banking,Returned
+FK2025000159,2025-06-23,CUST00424,Lucknow,Fashion,T-Shirt,1,1179,5,58.95,1120.05,1120.05,Cash on Delivery,Cancelled
+FK2025000160,2025-12-07,CUST00131,Kolkata,Home & Kitchen,Bedsheet,1,1993,15,298.95,1694.05,1694.05,Credit Card,Delivered
+FK2025000161,2025-08-10,CUST00050,Kolkata,Beauty,Face Wash,1,167,0,0.0,167.0,167.0,Credit Card,Delivered
+FK2025000162,2025-06-18,CUST00344,Delhi,Books,Fiction Book,1,210,20,42.0,168.0,168.0,Cash on Delivery,Returned
+FK2025000163,2025-05-28,CUST00308,Chennai,Home & Kitchen,Mixer Grinder,3,6949,15,1042.35,5906.65,17719.95,Debit Card,Delivered
+FK2025000164,2025-04-25,CUST00434,Delhi,Electronics,Laptop,1,104747,5,5237.35,99509.65,99509.65,Debit Card,Cancelled
+FK2025000165,2025-04-26,CUST00414,Pune,Books,Fiction Book,1,525,10,52.5,472.5,472.5,Net Banking,Returned
+FK2025000166,2025-11-08,CUST00476,Chennai,Sports,Cricket Bat,1,5825,20,1165.0,4660.0,4660.0,UPI,Delivered
+FK2025000167,2025-06-29,CUST00004,Bengaluru,Electronics,Headphones,2,4976,10,497.6,4478.4,8956.8,Credit Card,Delivered
+FK2025000168,2025-02-16,CUST00383,Jaipur,Sports,Cricket Bat,1,4082,25,1020.5,3061.5,3061.5,Credit Card,Delivered
+FK2025000169,2025-06-09,CUST00370,Kolkata,Home & Kitchen,Bedsheet,1,1358,5,67.9,1290.1,1290.1,Net Banking,Delivered
+FK2025000170,2025-11-13,CUST00026,Delhi,Sports,Cricket Bat,2,1494,5,74.7,1419.3,2838.6,Debit Card,Delivered
+FK2025000171,2025-05-20,CUST00111,Jaipur,Beauty,Face Wash,1,533,15,79.95,453.05,453.05,UPI,Cancelled
+FK2025000172,2025-09-07,CUST00270,Chennai,Home & Kitchen,Mixer Grinder,1,5020,25,1255.0,3765.0,3765.0,UPI,Returned
+FK2025000173,2025-04-15,CUST00155,Hyderabad,Fashion,T-Shirt,4,1108,0,0.0,1108.0,4432.0,Credit Card,Delivered
+FK2025000174,2025-08-09,CUST00090,Bengaluru,Fashion,Jeans,1,1984,0,0.0,1984.0,1984.0,Cash on Delivery,Cancelled
+FK2025000175,2025-02-06,CUST00204,Mumbai,Books,Fiction Book,1,869,20,173.8,695.2,695.2,Cash on Delivery,Delivered
+FK2025000176,2025-10-22,CUST00220,Ahmedabad,Electronics,Smartphone,3,39129,30,11738.7,27390.3,82170.9,Cash on Delivery,Delivered
+FK2025000177,2025-03-29,CUST00411,Ahmedabad,Home & Kitchen,Bedsheet,1,1091,0,0.0,1091.0,1091.0,Cash on Delivery,Delivered
+FK2025000178,2025-08-12,CUST00302,Pune,Home & Kitchen,Mixer Grinder,1,2220,0,0.0,2220.0,2220.0,Net Banking,Delivered
+FK2025000179,2025-04-24,CUST00171,Bengaluru,Electronics,Laptop,2,80872,25,20218.0,60654.0,121308.0,UPI,Delivered
+FK2025000180,2025-06-28,CUST00180,Bengaluru,Books,Fiction Book,1,797,20,159.4,637.6,637.6,Credit Card,Delivered
+FK2025000181,2025-03-20,CUST00390,Delhi,Electronics,Laptop,1,48193,5,2409.65,45783.35,45783.35,Credit Card,Returned
+FK2025000182,2025-08-18,CUST00349,Ahmedabad,Beauty,Face Wash,2,574,30,172.2,401.8,803.6,Net Banking,Returned
+FK2025000183,2025-08-29,CUST00227,Chennai,Home & Kitchen,Mixer Grinder,1,6637,15,995.55,5641.45,5641.45,Debit Card,Delivered
+FK2025000184,2025-08-25,CUST00232,Mumbai,Sports,Cricket Bat,1,1259,0,0.0,1259.0,1259.0,UPI,Delivered
+FK2025000185,2025-11-11,CUST00305,Jaipur,Home & Kitchen,Mixer Grinder,1,3850,30,1155.0,2695.0,2695.0,Cash on Delivery,Delivered
+FK2025000186,2025-08-19,CUST00466,Ahmedabad,Beauty,Face Wash,1,693,30,207.9,485.1,485.1,Credit Card,Delivered
+FK2025000187,2025-08-19,CUST00053,Kolkata,Home & Kitchen,Mixer Grinder,1,6455,5,322.75,6132.25,6132.25,UPI,Delivered
+FK2025000188,2025-08-13,CUST00269,Jaipur,Books,Fiction Book,1,810,5,40.5,769.5,769.5,Net Banking,Cancelled
+FK2025000189,2025-07-29,CUST00397,Kolkata,Electronics,Headphones,1,6461,10,646.1,5814.9,5814.9,Net Banking,Cancelled
+FK2025000190,2025-06-18,CUST00049,Jaipur,Electronics,Smartphone,1,60721,10,6072.1,54648.9,54648.9,Cash on Delivery,Delivered
+FK2025000191,2025-03-18,CUST00171,Delhi,Fashion,Jeans,2,1831,25,457.75,1373.25,2746.5,Net Banking,Returned
+FK2025000192,2025-03-08,CUST00305,Delhi,Electronics,Headphones,1,6230,25,1557.5,4672.5,4672.5,Debit Card,Cancelled
+FK2025000193,2025-12-10,CUST00360,Jaipur,Books,Fiction Book,1,534,10,53.4,480.6,480.6,UPI,Delivered
+FK2025000194,2025-04-03,CUST00487,Hyderabad,Home & Kitchen,Bedsheet,1,1540,10,154.0,1386.0,1386.0,Debit Card,Delivered
+FK2025000195,2025-02-09,CUST00152,Delhi,Beauty,Face Wash,1,295,5,14.75,280.25,280.25,Net Banking,Delivered
+FK2025000196,2025-03-09,CUST00306,Pune,Books,Fiction Book,1,688,10,68.8,619.2,619.2,Credit Card,Returned
+FK2025000197,2025-03-26,CUST00370,Lucknow,Electronics,Headphones,2,3461,30,1038.3,2422.7,4845.4,UPI,Returned
+FK2025000198,2025-11-09,CUST00146,Lucknow,Home & Kitchen,Bedsheet,1,1245,5,62.25,1182.75,1182.75,Credit Card,Cancelled
+FK2025000199,2025-04-10,CUST00189,Ahmedabad,Books,Fiction Book,1,393,30,117.9,275.1,275.1,Cash on Delivery,Cancelled
+FK2025000200,2025-08-03,CUST00495,Bengaluru,Beauty,Face Wash,2,387,20,77.4,309.6,619.2,Credit Card,Returned
+FK2025000201,2025-07-10,CUST00284,Delhi,Sports,Cricket Bat,2,1932,0,0.0,1932.0,3864.0,Net Banking,Cancelled
+FK2025000202,2025-08-19,CUST00464,Jaipur,Electronics,Laptop,1,66362,5,3318.1,63043.9,63043.9,Credit Card,Delivered
+FK2025000203,2025-06-28,CUST00477,Mumbai,Home & Kitchen,Bedsheet,3,686,5,34.3,651.7,1955.1,Cash on Delivery,Cancelled
+FK2025000204,2025-02-11,CUST00192,Hyderabad,Electronics,Smartphone,1,34981,5,1749.05,33231.95,33231.95,UPI,Cancelled
+FK2025000205,2025-03-16,CUST00071,Mumbai,Home & Kitchen,Mixer Grinder,2,2310,25,577.5,1732.5,3465.0,Debit Card,Delivered
+FK2025000206,2025-11-12,CUST00003,Delhi,Beauty,Face Wash,2,241,15,36.15,204.85,409.7,UPI,Cancelled
+FK2025000207,2025-09-28,CUST00217,Delhi,Fashion,Jeans,2,1682,20,336.4,1345.6,2691.2,Debit Card,Returned
+FK2025000208,2025-11-24,CUST00407,Ahmedabad,Fashion,T-Shirt,1,915,5,45.75,869.25,869.25,Cash on Delivery,Cancelled
+FK2025000209,2025-10-02,CUST00009,Jaipur,Electronics,Laptop,2,43529,15,6529.35,36999.65,73999.3,Net Banking,Returned
+FK2025000210,2025-06-30,CUST00124,Ahmedabad,Fashion,T-Shirt,1,593,0,0.0,593.0,593.0,Cash on Delivery,Returned
+FK2025000211,2025-09-27,CUST00279,Jaipur,Electronics,Headphones,1,1901,10,190.1,1710.9,1710.9,Net Banking,Delivered
+FK2025000212,2025-11-22,CUST00199,Kolkata,Books,Fiction Book,1,169,15,25.35,143.65,143.65,Debit Card,Delivered
+FK2025000213,2025-12-03,CUST00322,Delhi,Electronics,Smartphone,2,32401,10,3240.1,29160.9,58321.8,Net Banking,Delivered
+FK2025000214,2025-11-26,CUST00090,Lucknow,Home & Kitchen,Mixer Grinder,1,2591,20,518.2,2072.8,2072.8,Cash on Delivery,Delivered
+FK2025000215,2025-01-19,CUST00151,Hyderabad,Electronics,Headphones,1,2708,30,812.4,1895.6,1895.6,UPI,Cancelled
+FK2025000216,2025-07-23,CUST00418,Jaipur,Fashion,T-Shirt,1,384,10,38.4,345.6,345.6,Cash on Delivery,Returned
+FK2025000217,2025-07-02,CUST00442,Mumbai,Fashion,Jeans,2,948,5,47.4,900.6,1801.2,Debit Card,Delivered
+FK2025000218,2025-08-14,CUST00459,Pune,Fashion,Jeans,2,1308,15,196.2,1111.8,2223.6,Debit Card,Cancelled
+FK2025000219,2025-05-17,CUST00411,Delhi,Electronics,Headphones,1,8628,10,862.8,7765.2,7765.2,Cash on Delivery,Returned
+FK2025000220,2025-10-07,CUST00151,Kolkata,Electronics,Laptop,1,85439,30,25631.7,59807.3,59807.3,UPI,Delivered
+FK2025000221,2025-11-05,CUST00368,Pune,Electronics,Laptop,1,71980,10,7198.0,64782.0,64782.0,Credit Card,Cancelled
+FK2025000222,2025-11-11,CUST00223,Chennai,Beauty,Face Wash,1,458,25,114.5,343.5,343.5,UPI,Delivered
+FK2025000223,2025-12-14,CUST00082,Mumbai,Electronics,Laptop,1,116972,10,11697.2,105274.8,105274.8,Credit Card,Returned
+FK2025000224,2025-11-27,CUST00188,Kolkata,Sports,Cricket Bat,1,4388,0,0.0,4388.0,4388.0,Cash on Delivery,Delivered
+FK2025000225,2025-07-09,CUST00191,Lucknow,Sports,Cricket Bat,1,1064,25,266.0,798.0,798.0,UPI,Cancelled
+FK2025000226,2025-11-29,CUST00143,Hyderabad,Sports,Cricket Bat,1,1926,15,288.9,1637.1,1637.1,UPI,Delivered
+FK2025000227,2025-10-15,CUST00061,Chennai,Electronics,Smartphone,1,57212,20,11442.4,45769.6,45769.6,Debit Card,Cancelled
+FK2025000228,2025-04-13,CUST00063,Bengaluru,Beauty,Face Wash,4,318,10,31.8,286.2,1144.8,UPI,Cancelled
+FK2025000229,2025-12-16,CUST00496,Kolkata,Beauty,Face Wash,2,275,15,41.25,233.75,467.5,Debit Card,Delivered
+FK2025000230,2025-12-31,CUST00364,Bengaluru,Electronics,Laptop,1,101088,10,10108.8,90979.2,90979.2,Debit Card,Delivered
+FK2025000231,2025-05-02,CUST00405,Lucknow,Books,Fiction Book,1,378,5,18.9,359.1,359.1,UPI,Delivered
+FK2025000232,2025-03-08,CUST00314,Delhi,Home & Kitchen,Mixer Grinder,1,6037,15,905.55,5131.45,5131.45,UPI,Returned
+FK2025000233,2025-09-27,CUST00211,Pune,Fashion,Jeans,4,2429,25,607.25,1821.75,7287.0,Net Banking,Cancelled
+FK2025000234,2025-08-19,CUST00239,Jaipur,Electronics,Laptop,3,45425,25,11356.25,34068.75,102206.25,Debit Card,Delivered
+FK2025000235,2025-09-15,CUST00467,Mumbai,Electronics,Headphones,2,3480,5,174.0,3306.0,6612.0,UPI,Cancelled
+FK2025000236,2025-12-30,CUST00116,Kolkata,Books,Fiction Book,1,305,5,15.25,289.75,289.75,Net Banking,Delivered
+FK2025000237,2025-05-21,CUST00065,Chennai,Fashion,Jeans,1,1122,25,280.5,841.5,841.5,Net Banking,Returned
+FK2025000238,2025-10-25,CUST00079,Bengaluru,Books,Fiction Book,1,244,5,12.2,231.8,231.8,Net Banking,Returned
+FK2025000239,2025-01-15,CUST00042,Mumbai,Sports,Cricket Bat,2,3564,20,712.8,2851.2,5702.4,Net Banking,Delivered
+FK2025000240,2025-11-24,CUST00016,Lucknow,Fashion,Jeans,2,1662,15,249.3,1412.7,2825.4,Net Banking,Returned
+FK2025000241,2025-06-02,CUST00233,Delhi,Fashion,Jeans,1,2036,30,610.8,1425.2,1425.2,UPI,Cancelled
+FK2025000242,2025-06-24,CUST00311,Bengaluru,Electronics,Headphones,1,7701,15,1155.15,6545.85,6545.85,Debit Card,Delivered
+FK2025000243,2025-09-21,CUST00288,Delhi,Home & Kitchen,Mixer Grinder,3,4328,5,216.4,4111.6,12334.8,Debit Card,Delivered
+FK2025000244,2025-03-14,CUST00050,Mumbai,Fashion,T-Shirt,1,1254,15,188.1,1065.9,1065.9,Debit Card,Delivered
+FK2025000245,2025-06-17,CUST00479,Ahmedabad,Home & Kitchen,Bedsheet,1,2268,5,113.4,2154.6,2154.6,Debit Card,Delivered
+FK2025000246,2025-09-13,CUST00451,Chennai,Fashion,T-Shirt,1,625,20,125.0,500.0,500.0,Cash on Delivery,Cancelled
+FK2025000247,2025-05-04,CUST00111,Ahmedabad,Electronics,Smartphone,3,14900,20,2980.0,11920.0,35760.0,Debit Card,Cancelled
+FK2025000248,2025-05-27,CUST00275,Mumbai,Electronics,Smartphone,1,12311,20,2462.2,9848.8,9848.8,UPI,Cancelled
+FK2025000249,2025-07-26,CUST00188,Mumbai,Home & Kitchen,Bedsheet,2,773,25,193.25,579.75,1159.5,Cash on Delivery,Delivered
+FK2025000250,2025-05-28,CUST00038,Pune,Electronics,Smartphone,1,46372,10,4637.2,41734.8,41734.8,Net Banking,Returned
+FK2025000251,2025-03-02,CUST00066,Delhi,Beauty,Face Wash,1,662,20,132.4,529.6,529.6,Cash on Delivery,Returned
+FK2025000252,2025-04-12,CUST00309,Jaipur,Home & Kitchen,Mixer Grinder,1,4276,10,427.6,3848.4,3848.4,Cash on Delivery,Delivered
+FK2025000253,2025-08-31,CUST00266,Lucknow,Books,Fiction Book,1,190,5,9.5,180.5,180.5,Credit Card,Delivered
+FK2025000254,2025-03-25,CUST00202,Ahmedabad,Sports,Cricket Bat,1,5022,20,1004.4,4017.6,4017.6,Debit Card,Delivered
+FK2025000255,2025-09-08,CUST00363,Ahmedabad,Sports,Cricket Bat,1,3554,20,710.8,2843.2,2843.2,Debit Card,Returned
+FK2025000256,2025-08-02,CUST00299,Chennai,Beauty,Face Wash,1,116,25,29.0,87.0,87.0,UPI,Delivered
+FK2025000257,2025-10-23,CUST00117,Mumbai,Sports,Cricket Bat,1,4686,25,1171.5,3514.5,3514.5,Net Banking,Returned
+FK2025000258,2025-07-14,CUST00076,Hyderabad,Beauty,Face Wash,1,273,25,68.25,204.75,204.75,UPI,Returned
+FK2025000259,2025-08-03,CUST00078,Pune,Sports,Cricket Bat,1,1699,15,254.85,1444.15,1444.15,Credit Card,Delivered
+FK2025000260,2025-12-28,CUST00071,Jaipur,Home & Kitchen,Bedsheet,2,1526,15,228.9,1297.1,2594.2,Credit Card,Delivered
+FK2025000261,2025-07-12,CUST00161,Bengaluru,Books,Fiction Book,4,481,15,72.15,408.85,1635.4,Cash on Delivery,Returned
+FK2025000262,2025-11-09,CUST00248,Hyderabad,Books,Fiction Book,1,499,25,124.75,374.25,374.25,Credit Card,Delivered
+FK2025000263,2025-12-27,CUST00107,Lucknow,Fashion,Jeans,1,2021,10,202.1,1818.9,1818.9,Debit Card,Delivered
+FK2025000264,2025-05-28,CUST00063,Ahmedabad,Beauty,Face Wash,1,456,30,136.8,319.2,319.2,Net Banking,Delivered
+FK2025000265,2025-03-16,CUST00149,Mumbai,Home & Kitchen,Bedsheet,4,2333,30,699.9,1633.1,6532.4,Debit Card,Delivered
+FK2025000266,2025-09-03,CUST00110,Hyderabad,Electronics,Laptop,3,74397,25,18599.25,55797.75,167393.25,Net Banking,Delivered
+FK2025000267,2025-05-03,CUST00125,Mumbai,Fashion,Jeans,1,1911,20,382.2,1528.8,1528.8,Net Banking,Returned
+FK2025000268,2025-08-30,CUST00052,Bengaluru,Fashion,T-Shirt,1,775,15,116.25,658.75,658.75,UPI,Delivered
+FK2025000269,2025-11-30,CUST00103,Chennai,Books,Fiction Book,1,310,15,46.5,263.5,263.5,Debit Card,Cancelled
+FK2025000270,2025-04-29,CUST00274,Mumbai,Fashion,Jeans,2,1041,0,0.0,1041.0,2082.0,Credit Card,Returned
+FK2025000271,2025-09-11,CUST00096,Chennai,Home & Kitchen,Bedsheet,2,2305,0,0.0,2305.0,4610.0,UPI,Cancelled
+FK2025000272,2025-05-26,CUST00233,Jaipur,Electronics,Smartphone,1,28554,0,0.0,28554.0,28554.0,Net Banking,Delivered
+FK2025000273,2025-04-09,CUST00415,Delhi,Beauty,Face Wash,2,236,15,35.4,200.6,401.2,Debit Card,Delivered
+FK2025000274,2025-01-08,CUST00378,Kolkata,Electronics,Headphones,1,8017,25,2004.25,6012.75,6012.75,Debit Card,Delivered
+FK2025000275,2025-08-07,CUST00264,Kolkata,Sports,Cricket Bat,1,2381,30,714.3,1666.7,1666.7,UPI,Cancelled
+FK2025000276,2025-06-15,CUST00480,Hyderabad,Home & Kitchen,Bedsheet,1,1869,5,93.45,1775.55,1775.55,UPI,Cancelled
+FK2025000277,2025-06-18,CUST00155,Ahmedabad,Fashion,Jeans,1,2370,30,711.0,1659.0,1659.0,Net Banking,Delivered
+FK2025000278,2025-02-01,CUST00342,Delhi,Electronics,Smartphone,1,26140,25,6535.0,19605.0,19605.0,Cash on Delivery,Delivered
+FK2025000279,2025-12-20,CUST00061,Chennai,Fashion,Jeans,1,1453,20,290.6,1162.4,1162.4,Debit Card,Delivered
+FK2025000280,2025-03-20,CUST00233,Ahmedabad,Sports,Cricket Bat,1,2608,5,130.4,2477.6,2477.6,Debit Card,Cancelled
+FK2025000281,2025-12-07,CUST00423,Hyderabad,Home & Kitchen,Bedsheet,1,1936,15,290.4,1645.6,1645.6,Credit Card,Returned
+FK2025000282,2025-02-09,CUST00470,Ahmedabad,Sports,Cricket Bat,1,1469,20,293.8,1175.2,1175.2,UPI,Delivered
+FK2025000283,2025-10-21,CUST00275,Bengaluru,Electronics,Smartphone,1,63313,20,12662.6,50650.4,50650.4,Credit Card,Delivered
+FK2025000284,2025-10-26,CUST00251,Delhi,Home & Kitchen,Mixer Grinder,1,5761,25,1440.25,4320.75,4320.75,Net Banking,Delivered
+FK2025000285,2025-08-22,CUST00289,Mumbai,Beauty,Face Wash,1,155,20,31.0,124.0,124.0,Net Banking,Cancelled
+FK2025000286,2025-01-02,CUST00382,Hyderabad,Beauty,Face Wash,2,414,15,62.1,351.9,703.8,Net Banking,Delivered
+FK2025000287,2025-10-05,CUST00031,Delhi,Electronics,Laptop,1,34935,25,8733.75,26201.25,26201.25,Cash on Delivery,Delivered
+FK2025000288,2025-11-25,CUST00374,Pune,Electronics,Smartphone,1,27813,30,8343.9,19469.1,19469.1,Debit Card,Delivered
+FK2025000289,2025-02-11,CUST00350,Jaipur,Home & Kitchen,Bedsheet,2,1417,15,212.55,1204.45,2408.9,Credit Card,Cancelled
+FK2025000290,2025-09-28,CUST00066,Hyderabad,Home & Kitchen,Mixer Grinder,1,2470,20,494.0,1976.0,1976.0,UPI,Cancelled
+FK2025000291,2025-08-06,CUST00273,Pune,Electronics,Smartphone,1,28552,25,7138.0,21414.0,21414.0,Credit Card,Returned
+FK2025000292,2025-02-27,CUST00017,Pune,Fashion,T-Shirt,1,1242,10,124.2,1117.8,1117.8,Net Banking,Delivered
+FK2025000293,2025-01-18,CUST00229,Ahmedabad,Electronics,Smartphone,1,24771,0,0.0,24771.0,24771.0,UPI,Returned
+FK2025000294,2025-04-22,CUST00387,Mumbai,Fashion,T-Shirt,1,389,5,19.45,369.55,369.55,Credit Card,Returned
+FK2025000295,2025-06-13,CUST00296,Ahmedabad,Books,Fiction Book,1,445,25,111.25,333.75,333.75,Debit Card,Returned
+FK2025000296,2025-04-24,CUST00212,Chennai,Fashion,T-Shirt,2,917,25,229.25,687.75,1375.5,Debit Card,Returned
+FK2025000297,2025-11-17,CUST00348,Pune,Electronics,Smartphone,3,45484,25,11371.0,34113.0,102339.0,Net Banking,Delivered
+FK2025000298,2025-09-26,CUST00164,Pune,Beauty,Face Wash,3,147,25,36.75,110.25,330.75,Cash on Delivery,Cancelled
+FK2025000299,2025-08-31,CUST00124,Hyderabad,Electronics,Headphones,1,5412,30,1623.6,3788.4,3788.4,Debit Card,Returned
+FK2025000300,2025-08-02,CUST00286,Jaipur,Electronics,Headphones,2,8085,20,1617.0,6468.0,12936.0,Credit Card,Cancelled
+FK2025000301,2025-08-19,CUST00434,Kolkata,Home & Kitchen,Bedsheet,1,996,10,99.6,896.4,896.4,UPI,Delivered
+FK2025000302,2025-07-13,CUST00345,Ahmedabad,Books,Fiction Book,2,890,0,0.0,890.0,1780.0,Net Banking,Delivered
+FK2025000303,2025-12-10,CUST00287,Hyderabad,Electronics,Smartphone,1,66252,30,19875.6,46376.4,46376.4,Cash on Delivery,Returned
+FK2025000304,2025-04-08,CUST00493,Delhi,Fashion,T-Shirt,1,980,0,0.0,980.0,980.0,Cash on Delivery,Delivered
+FK2025000305,2025-06-14,CUST00398,Chennai,Fashion,T-Shirt,1,717,5,35.85,681.15,681.15,Cash on Delivery,Returned
+FK2025000306,2025-07-04,CUST00263,Lucknow,Beauty,Face Wash,1,645,10,64.5,580.5,580.5,Cash on Delivery,Delivered
+FK2025000307,2025-07-09,CUST00161,Pune,Electronics,Laptop,2,90536,10,9053.6,81482.4,162964.8,UPI,Delivered
+FK2025000308,2025-10-11,CUST00479,Ahmedabad,Sports,Cricket Bat,2,2611,0,0.0,2611.0,5222.0,Net Banking,Delivered
+FK2025000309,2025-07-14,CUST00292,Hyderabad,Home & Kitchen,Bedsheet,1,1103,10,110.3,992.7,992.7,Cash on Delivery,Delivered
+FK2025000310,2025-09-08,CUST00495,Lucknow,Books,Fiction Book,3,819,10,81.9,737.1,2211.3,Cash on Delivery,Delivered
+FK2025000311,2025-09-08,CUST00095,Jaipur,Electronics,Headphones,1,6269,25,1567.25,4701.75,4701.75,UPI,Returned
+FK2025000312,2025-01-04,CUST00212,Bengaluru,Books,Fiction Book,2,183,0,0.0,183.0,366.0,Credit Card,Delivered
+FK2025000313,2025-07-11,CUST00031,Ahmedabad,Electronics,Laptop,1,48794,20,9758.8,39035.2,39035.2,Net Banking,Cancelled
+FK2025000314,2025-07-30,CUST00007,Mumbai,Beauty,Face Wash,1,598,20,119.6,478.4,478.4,Net Banking,Returned
+FK2025000315,2025-12-24,CUST00346,Pune,Fashion,Jeans,3,2993,0,0.0,2993.0,8979.0,Credit Card,Returned
+FK2025000316,2025-11-14,CUST00270,Chennai,Electronics,Laptop,1,41623,5,2081.15,39541.85,39541.85,Debit Card,Delivered
+FK2025000317,2025-10-17,CUST00125,Hyderabad,Fashion,Jeans,1,2424,15,363.6,2060.4,2060.4,Debit Card,Cancelled
+FK2025000318,2025-02-17,CUST00208,Pune,Electronics,Laptop,4,114685,25,28671.25,86013.75,344055.0,Cash on Delivery,Delivered
+FK2025000319,2025-02-12,CUST00256,Pune,Books,Fiction Book,1,636,0,0.0,636.0,636.0,Debit Card,Delivered
+FK2025000320,2025-04-19,CUST00462,Ahmedabad,Sports,Cricket Bat,2,1580,0,0.0,1580.0,3160.0,Cash on Delivery,Delivered
+FK2025000321,2025-10-06,CUST00289,Mumbai,Fashion,Jeans,3,989,25,247.25,741.75,2225.25,Credit Card,Delivered
+FK2025000322,2025-12-31,CUST00421,Pune,Home & Kitchen,Mixer Grinder,3,1627,20,325.4,1301.6,3904.8,UPI,Delivered
+FK2025000323,2025-12-13,CUST00460,Jaipur,Fashion,Jeans,1,1464,20,292.8,1171.2,1171.2,Debit Card,Cancelled
+FK2025000324,2025-09-14,CUST00382,Kolkata,Home & Kitchen,Bedsheet,2,2046,30,613.8,1432.2,2864.4,UPI,Delivered
+FK2025000325,2025-11-06,CUST00394,Ahmedabad,Electronics,Laptop,1,86289,0,0.0,86289.0,86289.0,Net Banking,Delivered
+FK2025000326,2025-08-19,CUST00252,Hyderabad,Home & Kitchen,Bedsheet,2,2483,0,0.0,2483.0,4966.0,Debit Card,Delivered
+FK2025000327,2025-12-05,CUST00195,Delhi,Books,Fiction Book,1,533,25,133.25,399.75,399.75,Net Banking,Returned
+FK2025000328,2025-03-20,CUST00195,Bengaluru,Fashion,Jeans,2,1808,0,0.0,1808.0,3616.0,Cash on Delivery,Delivered
+FK2025000329,2025-08-16,CUST00185,Chennai,Home & Kitchen,Mixer Grinder,1,4453,0,0.0,4453.0,4453.0,UPI,Delivered
+FK2025000330,2025-10-12,CUST00263,Pune,Electronics,Headphones,1,1929,15,289.35,1639.65,1639.65,UPI,Returned
+FK2025000331,2025-11-03,CUST00402,Kolkata,Electronics,Smartphone,1,14872,0,0.0,14872.0,14872.0,Cash on Delivery,Returned
+FK2025000332,2025-10-14,CUST00464,Hyderabad,Electronics,Smartphone,1,28125,30,8437.5,19687.5,19687.5,Net Banking,Delivered
+FK2025000333,2025-05-18,CUST00155,Chennai,Books,Fiction Book,1,322,5,16.1,305.9,305.9,Cash on Delivery,Delivered
+FK2025000334,2025-06-03,CUST00248,Delhi,Electronics,Headphones,1,1535,10,153.5,1381.5,1381.5,Debit Card,Cancelled
+FK2025000335,2025-11-12,CUST00101,Lucknow,Fashion,Jeans,2,1809,15,271.35,1537.65,3075.3,UPI,Returned
+FK2025000336,2025-11-14,CUST00195,Kolkata,Electronics,Headphones,1,5490,15,823.5,4666.5,4666.5,Cash on Delivery,Delivered
+FK2025000337,2025-03-11,CUST00154,Kolkata,Home & Kitchen,Mixer Grinder,2,5026,30,1507.8,3518.2,7036.4,Net Banking,Returned
+FK2025000338,2025-05-30,CUST00377,Lucknow,Fashion,T-Shirt,1,1280,15,192.0,1088.0,1088.0,Net Banking,Delivered
+FK2025000339,2025-07-06,CUST00059,Ahmedabad,Fashion,T-Shirt,1,966,30,289.8,676.2,676.2,Credit Card,Cancelled
+FK2025000340,2025-01-14,CUST00488,Lucknow,Sports,Cricket Bat,1,5268,30,1580.4,3687.6,3687.6,Credit Card,Returned
+FK2025000341,2025-12-11,CUST00256,Bengaluru,Beauty,Face Wash,2,397,0,0.0,397.0,794.0,Debit Card,Cancelled
+FK2025000342,2025-07-13,CUST00038,Lucknow,Fashion,T-Shirt,1,816,25,204.0,612.0,612.0,Net Banking,Cancelled
+FK2025000343,2025-10-06,CUST00019,Kolkata,Beauty,Face Wash,1,695,20,139.0,556.0,556.0,Net Banking,Cancelled
+FK2025000344,2025-03-27,CUST00332,Ahmedabad,Sports,Cricket Bat,1,1495,5,74.75,1420.25,1420.25,UPI,Delivered
+FK2025000345,2025-02-24,CUST00006,Delhi,Sports,Cricket Bat,3,4072,10,407.2,3664.8,10994.4,Debit Card,Cancelled
+FK2025000346,2025-12-19,CUST00295,Hyderabad,Fashion,T-Shirt,2,1344,20,268.8,1075.2,2150.4,Cash on Delivery,Returned
+FK2025000347,2025-12-20,CUST00257,Bengaluru,Home & Kitchen,Mixer Grinder,1,4703,25,1175.75,3527.25,3527.25,Debit Card,Returned
+FK2025000348,2025-03-01,CUST00426,Bengaluru,Electronics,Smartphone,1,40637,15,6095.55,34541.45,34541.45,Debit Card,Delivered
+FK2025000349,2025-09-05,CUST00179,Lucknow,Fashion,Jeans,1,2204,5,110.2,2093.8,2093.8,UPI,Returned
+FK2025000350,2025-12-30,CUST00059,Mumbai,Beauty,Face Wash,1,562,10,56.2,505.8,505.8,Debit Card,Delivered
+FK2025000351,2025-09-22,CUST00090,Jaipur,Electronics,Laptop,2,117753,25,29438.25,88314.75,176629.5,Credit Card,Delivered
+FK2025000352,2025-07-27,CUST00323,Bengaluru,Home & Kitchen,Mixer Grinder,1,6085,15,912.75,5172.25,5172.25,Credit Card,Delivered
+FK2025000353,2025-08-19,CUST00304,Pune,Home & Kitchen,Bedsheet,1,1309,20,261.8,1047.2,1047.2,Cash on Delivery,Delivered
+FK2025000354,2025-10-23,CUST00053,Jaipur,Electronics,Smartphone,1,55184,10,5518.4,49665.6,49665.6,Credit Card,Delivered
+FK2025000355,2025-12-10,CUST00442,Lucknow,Home & Kitchen,Mixer Grinder,1,4169,0,0.0,4169.0,4169.0,Net Banking,Delivered
+FK2025000356,2025-02-28,CUST00179,Kolkata,Home & Kitchen,Mixer Grinder,1,6389,15,958.35,5430.65,5430.65,Cash on Delivery,Returned
+FK2025000357,2025-11-11,CUST00303,Delhi,Sports,Cricket Bat,2,2212,25,553.0,1659.0,3318.0,Credit Card,Delivered
+FK2025000358,2025-07-11,CUST00356,Bengaluru,Home & Kitchen,Mixer Grinder,1,2464,0,0.0,2464.0,2464.0,Net Banking,Delivered
+FK2025000359,2025-08-05,CUST00096,Lucknow,Home & Kitchen,Bedsheet,1,1355,20,271.0,1084.0,1084.0,Net Banking,Cancelled
+FK2025000360,2025-06-11,CUST00432,Lucknow,Electronics,Headphones,1,3232,5,161.6,3070.4,3070.4,Net Banking,Delivered
+FK2025000361,2025-03-11,CUST00100,Pune,Electronics,Smartphone,1,65721,0,0.0,65721.0,65721.0,Net Banking,Cancelled
+FK2025000362,2025-08-01,CUST00364,Lucknow,Books,Fiction Book,1,817,25,204.25,612.75,612.75,Cash on Delivery,Cancelled
+FK2025000363,2025-05-30,CUST00017,Chennai,Electronics,Headphones,1,1853,30,555.9,1297.1,1297.1,Credit Card,Delivered
+FK2025000364,2025-09-11,CUST00282,Jaipur,Books,Fiction Book,1,444,15,66.6,377.4,377.4,UPI,Returned
+FK2025000365,2025-10-05,CUST00422,Mumbai,Sports,Cricket Bat,1,1734,20,346.8,1387.2,1387.2,Cash on Delivery,Delivered
+FK2025000366,2025-06-02,CUST00448,Mumbai,Books,Fiction Book,4,372,0,0.0,372.0,1488.0,Cash on Delivery,Delivered
+FK2025000367,2025-03-02,CUST00398,Hyderabad,Fashion,Jeans,2,2226,0,0.0,2226.0,4452.0,Credit Card,Cancelled
+FK2025000368,2025-03-26,CUST00316,Bengaluru,Sports,Cricket Bat,2,3671,20,734.2,2936.8,5873.6,Credit Card,Cancelled
+FK2025000369,2025-11-02,CUST00276,Bengaluru,Fashion,T-Shirt,1,420,20,84.0,336.0,336.0,Debit Card,Delivered
+FK2025000370,2025-12-14,CUST00418,Delhi,Fashion,Jeans,1,1984,30,595.2,1388.8,1388.8,Credit Card,Returned
+FK2025000371,2025-12-26,CUST00444,Bengaluru,Home & Kitchen,Bedsheet,1,2380,10,238.0,2142.0,2142.0,Credit Card,Delivered
+FK2025000372,2025-09-08,CUST00073,Ahmedabad,Electronics,Headphones,2,5776,30,1732.8,4043.2,8086.4,Debit Card,Cancelled
+FK2025000373,2025-07-26,CUST00264,Chennai,Home & Kitchen,Bedsheet,1,1267,25,316.75,950.25,950.25,Debit Card,Delivered
+FK2025000374,2025-08-23,CUST00326,Kolkata,Beauty,Face Wash,1,598,0,0.0,598.0,598.0,UPI,Delivered
+FK2025000375,2025-09-11,CUST00138,Kolkata,Books,Fiction Book,1,556,15,83.4,472.6,472.6,Debit Card,Delivered
+FK2025000376,2025-06-25,CUST00458,Mumbai,Home & Kitchen,Mixer Grinder,1,5982,20,1196.4,4785.6,4785.6,UPI,Cancelled
+FK2025000377,2025-03-05,CUST00476,Bengaluru,Electronics,Laptop,2,111073,15,16660.95,94412.05,188824.1,Cash on Delivery,Delivered
+FK2025000378,2025-12-19,CUST00466,Bengaluru,Beauty,Face Wash,4,99,15,14.85,84.15,336.6,Debit Card,Delivered
+FK2025000379,2025-02-12,CUST00191,Bengaluru,Electronics,Headphones,1,4988,10,498.8,4489.2,4489.2,UPI,Delivered
+FK2025000380,2025-08-08,CUST00336,Delhi,Home & Kitchen,Bedsheet,1,1780,25,445.0,1335.0,1335.0,UPI,Delivered
+FK2025000381,2025-04-26,CUST00266,Lucknow,Electronics,Smartphone,1,22985,5,1149.25,21835.75,21835.75,UPI,Returned
+FK2025000382,2025-12-22,CUST00068,Lucknow,Electronics,Smartphone,1,54585,0,0.0,54585.0,54585.0,UPI,Cancelled
+FK2025000383,2025-02-22,CUST00161,Kolkata,Fashion,T-Shirt,1,1083,30,324.9,758.1,758.1,Debit Card,Delivered
+FK2025000384,2025-11-25,CUST00347,Bengaluru,Electronics,Headphones,2,6769,30,2030.7,4738.3,9476.6,UPI,Delivered
+FK2025000385,2025-08-14,CUST00180,Hyderabad,Books,Fiction Book,1,725,25,181.25,543.75,543.75,Credit Card,Delivered
+FK2025000386,2025-02-14,CUST00460,Delhi,Home & Kitchen,Bedsheet,1,1760,30,528.0,1232.0,1232.0,Credit Card,Delivered
+FK2025000387,2025-06-11,CUST00406,Bengaluru,Electronics,Laptop,2,106275,10,10627.5,95647.5,191295.0,Credit Card,Cancelled
+FK2025000388,2025-11-08,CUST00146,Mumbai,Fashion,Jeans,1,1144,20,228.8,915.2,915.2,Debit Card,Returned
+FK2025000389,2025-06-01,CUST00331,Mumbai,Fashion,T-Shirt,1,1359,5,67.95,1291.05,1291.05,Credit Card,Cancelled
+FK2025000390,2025-02-06,CUST00271,Mumbai,Beauty,Face Wash,1,494,15,74.1,419.9,419.9,Debit Card,Returned
+FK2025000391,2025-08-04,CUST00188,Jaipur,Home & Kitchen,Mixer Grinder,1,2580,30,774.0,1806.0,1806.0,Credit Card,Returned
+FK2025000392,2025-05-15,CUST00111,Mumbai,Beauty,Face Wash,1,173,0,0.0,173.0,173.0,UPI,Delivered
+FK2025000393,2025-08-01,CUST00217,Pune,Home & Kitchen,Bedsheet,1,1536,25,384.0,1152.0,1152.0,UPI,Returned
+FK2025000394,2025-06-08,CUST00041,Jaipur,Books,Fiction Book,1,699,10,69.9,629.1,629.1,Credit Card,Delivered
+FK2025000395,2025-06-08,CUST00358,Pune,Electronics,Headphones,1,5852,25,1463.0,4389.0,4389.0,Credit Card,Delivered
+FK2025000396,2025-08-21,CUST00314,Ahmedabad,Electronics,Smartphone,1,25021,15,3753.15,21267.85,21267.85,UPI,Delivered
+FK2025000397,2025-12-26,CUST00006,Bengaluru,Fashion,Jeans,1,1518,25,379.5,1138.5,1138.5,Cash on Delivery,Delivered
+FK2025000398,2025-03-27,CUST00191,Bengaluru,Home & Kitchen,Mixer Grinder,1,5783,30,1734.9,4048.1,4048.1,Debit Card,Delivered
+FK2025000399,2025-09-26,CUST00033,Chennai,Electronics,Laptop,1,32846,15,4926.9,27919.1,27919.1,Net Banking,Delivered
+FK2025000400,2025-09-13,CUST00440,Ahmedabad,Electronics,Laptop,1,94030,10,9403.0,84627.0,84627.0,Credit Card,Delivered
+FK2025000401,2025-12-12,CUST00371,Delhi,Home & Kitchen,Mixer Grinder,1,2787,0,0.0,2787.0,2787.0,Credit Card,Returned
+FK2025000402,2025-05-06,CUST00024,Lucknow,Books,Fiction Book,1,151,30,45.3,105.7,105.7,Debit Card,Delivered
+FK2025000403,2025-10-11,CUST00412,Pune,Home & Kitchen,Bedsheet,1,2383,30,714.9,1668.1,1668.1,Credit Card,Delivered
+FK2025000404,2025-05-19,CUST00423,Delhi,Home & Kitchen,Mixer Grinder,1,3532,25,883.0,2649.0,2649.0,Net Banking,Delivered
+FK2025000405,2025-04-25,CUST00412,Jaipur,Home & Kitchen,Mixer Grinder,1,2477,0,0.0,2477.0,2477.0,UPI,Delivered
+FK2025000406,2025-06-09,CUST00168,Delhi,Home & Kitchen,Bedsheet,2,640,30,192.0,448.0,896.0,Net Banking,Delivered
+FK2025000407,2025-06-05,CUST00379,Ahmedabad,Beauty,Face Wash,1,107,10,10.7,96.3,96.3,Credit Card,Returned
+FK2025000408,2025-10-07,CUST00390,Hyderabad,Beauty,Face Wash,1,476,15,71.4,404.6,404.6,Credit Card,Delivered
+FK2025000409,2025-11-22,CUST00430,Mumbai,Electronics,Smartphone,1,35871,20,7174.2,28696.8,28696.8,Debit Card,Delivered
+FK2025000410,2025-02-23,CUST00106,Jaipur,Electronics,Smartphone,1,58736,30,17620.8,41115.2,41115.2,Credit Card,Delivered
+FK2025000411,2025-02-17,CUST00023,Hyderabad,Home & Kitchen,Bedsheet,3,1506,5,75.3,1430.7,4292.1,Net Banking,Delivered
+FK2025000412,2025-10-25,CUST00049,Jaipur,Home & Kitchen,Bedsheet,2,1934,15,290.1,1643.9,3287.8,Credit Card,Delivered
+FK2025000413,2025-12-06,CUST00494,Bengaluru,Home & Kitchen,Bedsheet,1,652,0,0.0,652.0,652.0,Credit Card,Cancelled
+FK2025000414,2025-12-25,CUST00426,Kolkata,Fashion,Jeans,2,1868,30,560.4,1307.6,2615.2,Debit Card,Cancelled
+FK2025000415,2025-10-27,CUST00056,Bengaluru,Beauty,Face Wash,1,377,5,18.85,358.15,358.15,UPI,Delivered
+FK2025000416,2025-10-02,CUST00184,Hyderabad,Electronics,Headphones,1,7864,15,1179.6,6684.4,6684.4,Cash on Delivery,Delivered
+FK2025000417,2025-03-22,CUST00414,Chennai,Fashion,Jeans,1,2696,0,0.0,2696.0,2696.0,Net Banking,Delivered
+FK2025000418,2025-02-16,CUST00365,Hyderabad,Electronics,Smartphone,2,23090,10,2309.0,20781.0,41562.0,Debit Card,Delivered
+FK2025000419,2025-03-31,CUST00016,Pune,Home & Kitchen,Bedsheet,1,1550,10,155.0,1395.0,1395.0,Cash on Delivery,Delivered
+FK2025000420,2025-03-13,CUST00063,Mumbai,Books,Fiction Book,1,712,15,106.8,605.2,605.2,UPI,Delivered
+FK2025000421,2025-12-18,CUST00323,Delhi,Fashion,T-Shirt,1,566,15,84.9,481.1,481.1,Net Banking,Delivered
+FK2025000422,2025-02-03,CUST00102,Lucknow,Sports,Cricket Bat,2,2919,0,0.0,2919.0,5838.0,Credit Card,Delivered
+FK2025000423,2025-03-28,CUST00474,Ahmedabad,Electronics,Laptop,1,72455,15,10868.25,61586.75,61586.75,Cash on Delivery,Delivered
+FK2025000424,2025-03-30,CUST00182,Hyderabad,Home & Kitchen,Bedsheet,1,1515,25,378.75,1136.25,1136.25,Credit Card,Cancelled
+FK2025000425,2025-11-11,CUST00318,Ahmedabad,Fashion,Jeans,1,1945,5,97.25,1847.75,1847.75,Credit Card,Delivered
+FK2025000426,2025-02-01,CUST00045,Chennai,Fashion,Jeans,1,2842,20,568.4,2273.6,2273.6,Cash on Delivery,Cancelled
+FK2025000427,2025-05-08,CUST00323,Jaipur,Electronics,Headphones,1,7367,30,2210.1,5156.9,5156.9,UPI,Returned
+FK2025000428,2025-09-06,CUST00177,Ahmedabad,Home & Kitchen,Bedsheet,2,2100,15,315.0,1785.0,3570.0,Net Banking,Returned
+FK2025000429,2025-11-02,CUST00113,Mumbai,Home & Kitchen,Mixer Grinder,1,4680,0,0.0,4680.0,4680.0,Debit Card,Delivered
+FK2025000430,2025-10-27,CUST00120,Bengaluru,Electronics,Smartphone,4,61994,20,12398.8,49595.2,198380.8,UPI,Delivered
+FK2025000431,2025-04-23,CUST00295,Pune,Fashion,T-Shirt,1,792,30,237.6,554.4,554.4,Debit Card,Delivered
+FK2025000432,2025-10-30,CUST00015,Kolkata,Electronics,Headphones,1,3384,10,338.4,3045.6,3045.6,Net Banking,Delivered
+FK2025000433,2025-10-05,CUST00159,Bengaluru,Sports,Cricket Bat,1,1963,5,98.15,1864.85,1864.85,Cash on Delivery,Cancelled
+FK2025000434,2025-01-11,CUST00270,Lucknow,Electronics,Smartphone,1,14914,20,2982.8,11931.2,11931.2,UPI,Delivered
+FK2025000435,2025-04-01,CUST00471,Kolkata,Home & Kitchen,Mixer Grinder,1,6529,5,326.45,6202.55,6202.55,UPI,Delivered
+FK2025000436,2025-09-27,CUST00441,Kolkata,Electronics,Smartphone,1,18679,5,933.95,17745.05,17745.05,UPI,Delivered
+FK2025000437,2025-06-04,CUST00166,Bengaluru,Home & Kitchen,Mixer Grinder,1,6923,0,0.0,6923.0,6923.0,Credit Card,Delivered
+FK2025000438,2025-03-31,CUST00363,Jaipur,Home & Kitchen,Bedsheet,1,2120,15,318.0,1802.0,1802.0,Net Banking,Delivered
+FK2025000439,2025-07-13,CUST00158,Chennai,Home & Kitchen,Mixer Grinder,1,3327,30,998.1,2328.9,2328.9,Credit Card,Delivered
+FK2025000440,2025-10-18,CUST00017,Bengaluru,Electronics,Headphones,3,528,20,105.6,422.4,1267.2,Net Banking,Cancelled
+FK2025000441,2025-09-12,CUST00073,Kolkata,Home & Kitchen,Mixer Grinder,1,6507,20,1301.4,5205.6,5205.6,UPI,Delivered
+FK2025000442,2025-12-29,CUST00344,Kolkata,Fashion,T-Shirt,4,1009,5,50.45,958.55,3834.2,Cash on Delivery,Delivered
+FK2025000443,2025-06-29,CUST00132,Delhi,Electronics,Smartphone,1,26379,25,6594.75,19784.25,19784.25,UPI,Delivered
+FK2025000444,2025-07-31,CUST00253,Pune,Electronics,Smartphone,1,34291,15,5143.65,29147.35,29147.35,Debit Card,Delivered
+FK2025000445,2025-11-30,CUST00389,Hyderabad,Books,Fiction Book,1,533,15,79.95,453.05,453.05,Credit Card,Returned
+FK2025000446,2025-01-11,CUST00164,Chennai,Beauty,Face Wash,2,174,0,0.0,174.0,348.0,UPI,Delivered
+FK2025000447,2025-02-08,CUST00281,Delhi,Electronics,Laptop,1,73800,15,11070.0,62730.0,62730.0,Debit Card,Delivered
+FK2025000448,2025-08-09,CUST00483,Bengaluru,Sports,Cricket Bat,2,5825,25,1456.25,4368.75,8737.5,Net Banking,Delivered
+FK2025000449,2025-04-08,CUST00210,Jaipur,Home & Kitchen,Bedsheet,1,820,10,82.0,738.0,738.0,Net Banking,Delivered
+FK2025000450,2025-07-21,CUST00293,Jaipur,Fashion,Jeans,1,1952,0,0.0,1952.0,1952.0,Cash on Delivery,Delivered
+FK2025000451,2025-05-31,CUST00422,Ahmedabad,Electronics,Headphones,1,1392,15,208.8,1183.2,1183.2,Cash on Delivery,Delivered
+FK2025000452,2025-02-11,CUST00243,Delhi,Fashion,T-Shirt,1,497,5,24.85,472.15,472.15,Debit Card,Delivered
+FK2025000453,2025-02-16,CUST00329,Jaipur,Home & Kitchen,Bedsheet,1,1463,25,365.75,1097.25,1097.25,Cash on Delivery,Delivered
+FK2025000454,2025-08-17,CUST00023,Chennai,Electronics,Headphones,2,6577,10,657.7,5919.3,11838.6,Cash on Delivery,Delivered
+FK2025000455,2025-02-01,CUST00078,Delhi,Beauty,Face Wash,1,368,10,36.8,331.2,331.2,UPI,Returned
+FK2025000456,2025-04-27,CUST00284,Mumbai,Home & Kitchen,Mixer Grinder,1,5934,30,1780.2,4153.8,4153.8,Cash on Delivery,Returned
+FK2025000457,2025-10-21,CUST00452,Hyderabad,Books,Fiction Book,3,577,25,144.25,432.75,1298.25,Cash on Delivery,Cancelled
+FK2025000458,2025-09-15,CUST00293,Jaipur,Fashion,Jeans,1,1122,30,336.6,785.4,785.4,Net Banking,Delivered
+FK2025000459,2025-03-30,CUST00486,Bengaluru,Sports,Cricket Bat,1,2006,30,601.8,1404.2,1404.2,Credit Card,Cancelled
+FK2025000460,2025-04-14,CUST00422,Bengaluru,Fashion,T-Shirt,1,557,0,0.0,557.0,557.0,Net Banking,Cancelled
+FK2025000461,2025-02-14,CUST00199,Jaipur,Fashion,Jeans,2,2108,30,632.4,1475.6,2951.2,Cash on Delivery,Delivered
+FK2025000462,2025-01-07,CUST00403,Ahmedabad,Books,Fiction Book,2,482,20,96.4,385.6,771.2,Net Banking,Cancelled
+FK2025000463,2025-10-18,CUST00302,Ahmedabad,Books,Fiction Book,1,578,5,28.9,549.1,549.1,UPI,Delivered
+FK2025000464,2025-10-02,CUST00451,Kolkata,Electronics,Laptop,2,102751,30,30825.3,71925.7,143851.4,Cash on Delivery,Delivered
+FK2025000465,2025-08-31,CUST00020,Bengaluru,Fashion,Jeans,1,2367,20,473.4,1893.6,1893.6,Debit Card,Returned
+FK2025000466,2025-01-20,CUST00203,Kolkata,Home & Kitchen,Bedsheet,1,793,25,198.25,594.75,594.75,Credit Card,Cancelled
+FK2025000467,2025-01-11,CUST00173,Chennai,Electronics,Smartphone,1,57872,10,5787.2,52084.8,52084.8,Debit Card,Delivered
+FK2025000468,2025-04-27,CUST00069,Chennai,Fashion,Jeans,2,2812,25,703.0,2109.0,4218.0,Cash on Delivery,Delivered
+FK2025000469,2025-04-07,CUST00227,Hyderabad,Home & Kitchen,Mixer Grinder,2,3706,20,741.2,2964.8,5929.6,Cash on Delivery,Delivered
+FK2025000470,2025-09-21,CUST00406,Bengaluru,Beauty,Face Wash,2,627,30,188.1,438.9,877.8,UPI,Delivered
+FK2025000471,2025-10-19,CUST00015,Bengaluru,Fashion,Jeans,1,2874,30,862.2,2011.8,2011.8,Credit Card,Returned
+FK2025000472,2025-07-04,CUST00361,Hyderabad,Fashion,T-Shirt,1,417,15,62.55,354.45,354.45,Debit Card,Delivered
+FK2025000473,2025-12-15,CUST00016,Hyderabad,Home & Kitchen,Mixer Grinder,1,5301,25,1325.25,3975.75,3975.75,Debit Card,Delivered
+FK2025000474,2025-10-28,CUST00283,Kolkata,Beauty,Face Wash,1,555,30,166.5,388.5,388.5,Debit Card,Cancelled
+FK2025000475,2025-05-26,CUST00015,Pune,Electronics,Headphones,2,4736,25,1184.0,3552.0,7104.0,UPI,Delivered
+FK2025000476,2025-12-13,CUST00106,Chennai,Electronics,Headphones,2,4010,25,1002.5,3007.5,6015.0,Cash on Delivery,Delivered
+FK2025000477,2025-08-31,CUST00467,Bengaluru,Books,Fiction Book,2,169,30,50.7,118.3,236.6,Credit Card,Delivered
+FK2025000478,2025-12-31,CUST00496,Chennai,Sports,Cricket Bat,1,868,20,173.6,694.4,694.4,Cash on Delivery,Delivered
+FK2025000479,2025-08-27,CUST00155,Jaipur,Home & Kitchen,Bedsheet,1,2243,10,224.3,2018.7,2018.7,Net Banking,Delivered
+FK2025000480,2025-10-15,CUST00332,Ahmedabad,Home & Kitchen,Bedsheet,1,1696,20,339.2,1356.8,1356.8,Net Banking,Delivered
+FK2025000481,2025-06-22,CUST00142,Kolkata,Fashion,Jeans,1,2021,15,303.15,1717.85,1717.85,Debit Card,Delivered
+FK2025000482,2025-01-30,CUST00413,Ahmedabad,Fashion,Jeans,1,2022,20,404.4,1617.6,1617.6,Cash on Delivery,Delivered
+FK2025000483,2025-06-01,CUST00133,Pune,Home & Kitchen,Mixer Grinder,2,2645,25,661.25,1983.75,3967.5,Cash on Delivery,Cancelled
+FK2025000484,2025-04-08,CUST00176,Hyderabad,Home & Kitchen,Bedsheet,1,2007,25,501.75,1505.25,1505.25,Net Banking,Returned
+FK2025000485,2025-12-03,CUST00449,Jaipur,Beauty,Face Wash,1,466,30,139.8,326.2,326.2,Credit Card,Delivered
+FK2025000486,2025-10-14,CUST00391,Bengaluru,Fashion,Jeans,1,1198,25,299.5,898.5,898.5,Debit Card,Delivered
+FK2025000487,2025-08-04,CUST00404,Kolkata,Electronics,Laptop,1,58130,25,14532.5,43597.5,43597.5,Debit Card,Delivered
+FK2025000488,2025-01-28,CUST00444,Ahmedabad,Fashion,Jeans,1,2003,0,0.0,2003.0,2003.0,Net Banking,Cancelled
+FK2025000489,2025-03-03,CUST00445,Pune,Sports,Cricket Bat,1,1382,5,69.1,1312.9,1312.9,Net Banking,Returned
+FK2025000490,2025-03-12,CUST00103,Kolkata,Fashion,Jeans,1,2491,30,747.3,1743.7,1743.7,Cash on Delivery,Delivered
+FK2025000491,2025-02-11,CUST00250,Kolkata,Sports,Cricket Bat,1,4547,30,1364.1,3182.9,3182.9,Credit Card,Delivered
+FK2025000492,2025-04-18,CUST00390,Bengaluru,Home & Kitchen,Mixer Grinder,1,6696,15,1004.4,5691.6,5691.6,Net Banking,Delivered
+FK2025000493,2025-03-08,CUST00315,Pune,Electronics,Headphones,2,8520,30,2556.0,5964.0,11928.0,Cash on Delivery,Delivered
+FK2025000494,2025-01-20,CUST00274,Hyderabad,Home & Kitchen,Bedsheet,3,1377,15,206.55,1170.45,3511.35,Debit Card,Delivered
+FK2025000495,2025-04-08,CUST00010,Mumbai,Electronics,Smartphone,1,67457,30,20237.1,47219.9,47219.9,Credit Card,Returned
+FK2025000496,2025-09-15,CUST00302,Chennai,Fashion,T-Shirt,1,1004,0,0.0,1004.0,1004.0,Credit Card,Cancelled
+FK2025000497,2025-09-24,CUST00306,Jaipur,Electronics,Laptop,1,34991,10,3499.1,31491.9,31491.9,Debit Card,Cancelled
+FK2025000498,2025-09-08,CUST00184,Hyderabad,Home & Kitchen,Bedsheet,1,2317,5,115.85,2201.15,2201.15,Credit Card,Delivered
+FK2025000499,2025-04-19,CUST00376,Mumbai,Home & Kitchen,Bedsheet,1,538,25,134.5,403.5,403.5,Net Banking,Delivered
+FK2025000500,2025-07-12,CUST00449,Chennai,Books,Fiction Book,1,322,25,80.5,241.5,241.5,Net Banking,Delivered
+FK2025000501,2025-12-01,CUST00429,Mumbai,Sports,Cricket Bat,1,1197,0,0.0,1197.0,1197.0,UPI,Delivered
+FK2025000502,2025-05-10,CUST00243,Bengaluru,Electronics,Laptop,1,83626,0,0.0,83626.0,83626.0,Credit Card,Returned
+FK2025000503,2025-05-19,CUST00319,Ahmedabad,Electronics,Smartphone,1,28732,0,0.0,28732.0,28732.0,Credit Card,Returned
+FK2025000504,2025-03-02,CUST00145,Delhi,Home & Kitchen,Bedsheet,2,2200,20,440.0,1760.0,3520.0,UPI,Returned
+FK2025000505,2025-09-25,CUST00499,Hyderabad,Beauty,Face Wash,1,302,30,90.6,211.4,211.4,Debit Card,Delivered
+FK2025000506,2025-04-17,CUST00353,Lucknow,Home & Kitchen,Bedsheet,1,1103,20,220.6,882.4,882.4,Debit Card,Cancelled
+FK2025000507,2025-10-21,CUST00343,Lucknow,Fashion,T-Shirt,1,304,0,0.0,304.0,304.0,Credit Card,Delivered
+FK2025000508,2025-05-12,CUST00330,Hyderabad,Electronics,Laptop,1,96069,25,24017.25,72051.75,72051.75,Cash on Delivery,Delivered
+FK2025000509,2025-01-21,CUST00437,Chennai,Fashion,Jeans,1,1880,0,0.0,1880.0,1880.0,Debit Card,Delivered
+FK2025000510,2025-01-05,CUST00437,Bengaluru,Home & Kitchen,Mixer Grinder,2,4988,0,0.0,4988.0,9976.0,Credit Card,Delivered
+FK2025000511,2025-02-17,CUST00191,Kolkata,Home & Kitchen,Mixer Grinder,2,4427,20,885.4,3541.6,7083.2,Credit Card,Delivered
+FK2025000512,2025-07-17,CUST00354,Lucknow,Electronics,Laptop,1,81529,15,12229.35,69299.65,69299.65,Cash on Delivery,Delivered
+FK2025000513,2025-03-23,CUST00054,Pune,Electronics,Headphones,1,2351,25,587.75,1763.25,1763.25,Net Banking,Delivered
+FK2025000514,2025-07-14,CUST00399,Kolkata,Beauty,Face Wash,1,681,5,34.05,646.95,646.95,Net Banking,Returned
+FK2025000515,2025-09-05,CUST00472,Lucknow,Electronics,Smartphone,1,65528,30,19658.4,45869.6,45869.6,UPI,Delivered
+FK2025000516,2025-01-07,CUST00361,Jaipur,Home & Kitchen,Bedsheet,1,1401,10,140.1,1260.9,1260.9,Net Banking,Delivered
+FK2025000517,2025-09-23,CUST00268,Ahmedabad,Sports,Cricket Bat,3,2633,25,658.25,1974.75,5924.25,UPI,Delivered
+FK2025000518,2025-12-06,CUST00347,Pune,Home & Kitchen,Bedsheet,2,1854,15,278.1,1575.9,3151.8,Credit Card,Delivered
+FK2025000519,2025-09-16,CUST00435,Lucknow,Books,Fiction Book,1,776,25,194.0,582.0,582.0,Cash on Delivery,Delivered
+FK2025000520,2025-06-19,CUST00497,Chennai,Electronics,Headphones,2,1725,10,172.5,1552.5,3105.0,UPI,Delivered
+FK2025000521,2025-05-01,CUST00041,Lucknow,Books,Fiction Book,1,377,15,56.55,320.45,320.45,Cash on Delivery,Cancelled
+FK2025000522,2025-06-11,CUST00061,Lucknow,Sports,Cricket Bat,1,4469,15,670.35,3798.65,3798.65,UPI,Cancelled
+FK2025000523,2025-01-01,CUST00423,Delhi,Electronics,Laptop,1,81878,20,16375.6,65502.4,65502.4,Net Banking,Returned
+FK2025000524,2025-12-02,CUST00344,Lucknow,Sports,Cricket Bat,2,3294,20,658.8,2635.2,5270.4,Debit Card,Delivered
+FK2025000525,2025-06-19,CUST00287,Ahmedabad,Home & Kitchen,Mixer Grinder,2,1943,30,582.9,1360.1,2720.2,Net Banking,Cancelled
+FK2025000526,2025-12-04,CUST00114,Mumbai,Beauty,Face Wash,2,471,0,0.0,471.0,942.0,Debit Card,Delivered
+FK2025000527,2025-09-25,CUST00192,Delhi,Home & Kitchen,Mixer Grinder,3,6689,10,668.9,6020.1,18060.3,UPI,Returned
+FK2025000528,2025-02-24,CUST00131,Ahmedabad,Electronics,Headphones,1,8566,25,2141.5,6424.5,6424.5,Credit Card,Cancelled
+FK2025000529,2025-08-23,CUST00423,Hyderabad,Fashion,T-Shirt,3,546,15,81.9,464.1,1392.3,Debit Card,Delivered
+FK2025000530,2025-03-05,CUST00396,Lucknow,Electronics,Laptop,1,83324,25,20831.0,62493.0,62493.0,Cash on Delivery,Returned
+FK2025000531,2025-09-29,CUST00377,Mumbai,Sports,Cricket Bat,1,4929,15,739.35,4189.65,4189.65,Net Banking,Delivered
+FK2025000532,2025-12-21,CUST00297,Bengaluru,Home & Kitchen,Bedsheet,1,2216,20,443.2,1772.8,1772.8,Credit Card,Delivered
+FK2025000533,2025-09-16,CUST00452,Pune,Electronics,Laptop,1,79777,20,15955.4,63821.6,63821.6,Cash on Delivery,Delivered
+FK2025000534,2025-08-20,CUST00413,Bengaluru,Sports,Cricket Bat,1,2832,10,283.2,2548.8,2548.8,Credit Card,Delivered
+FK2025000535,2025-06-03,CUST00432,Jaipur,Home & Kitchen,Bedsheet,2,1732,25,433.0,1299.0,2598.0,Debit Card,Returned
+FK2025000536,2025-05-29,CUST00352,Kolkata,Books,Fiction Book,1,796,5,39.8,756.2,756.2,Credit Card,Returned
+FK2025000537,2025-12-30,CUST00060,Kolkata,Electronics,Headphones,1,8754,25,2188.5,6565.5,6565.5,Net Banking,Delivered
+FK2025000538,2025-12-12,CUST00383,Jaipur,Beauty,Face Wash,1,695,25,173.75,521.25,521.25,Debit Card,Cancelled
+FK2025000539,2025-07-15,CUST00075,Mumbai,Home & Kitchen,Bedsheet,1,2154,0,0.0,2154.0,2154.0,UPI,Delivered
+FK2025000540,2025-12-16,CUST00129,Bengaluru,Fashion,T-Shirt,2,845,5,42.25,802.75,1605.5,UPI,Delivered
+FK2025000541,2025-08-20,CUST00053,Ahmedabad,Fashion,Jeans,2,1634,0,0.0,1634.0,3268.0,Net Banking,Delivered
+FK2025000542,2025-12-21,CUST00341,Mumbai,Fashion,T-Shirt,1,1448,20,289.6,1158.4,1158.4,Cash on Delivery,Delivered
+FK2025000543,2025-10-10,CUST00028,Mumbai,Home & Kitchen,Bedsheet,3,1352,25,338.0,1014.0,3042.0,Debit Card,Delivered
+FK2025000544,2025-10-29,CUST00280,Ahmedabad,Fashion,T-Shirt,2,1206,25,301.5,904.5,1809.0,Credit Card,Delivered
+FK2025000545,2025-04-06,CUST00493,Bengaluru,Fashion,T-Shirt,1,901,25,225.25,675.75,675.75,Net Banking,Delivered
+FK2025000546,2025-05-16,CUST00067,Bengaluru,Electronics,Laptop,1,78439,10,7843.9,70595.1,70595.1,Net Banking,Returned
+FK2025000547,2025-01-21,CUST00079,Kolkata,Fashion,Jeans,1,822,25,205.5,616.5,616.5,Net Banking,Delivered
+FK2025000548,2025-09-09,CUST00405,Ahmedabad,Electronics,Smartphone,3,59701,20,11940.2,47760.8,143282.4,Net Banking,Delivered
+FK2025000549,2025-04-23,CUST00490,Bengaluru,Home & Kitchen,Mixer Grinder,2,2096,10,209.6,1886.4,3772.8,Net Banking,Returned
+FK2025000550,2025-07-26,CUST00048,Kolkata,Electronics,Laptop,1,95208,20,19041.6,76166.4,76166.4,Credit Card,Returned
+FK2025000551,2025-11-13,CUST00272,Lucknow,Fashion,T-Shirt,1,978,10,97.8,880.2,880.2,Net Banking,Delivered
+FK2025000552,2025-11-25,CUST00315,Ahmedabad,Electronics,Smartphone,1,16517,15,2477.55,14039.45,14039.45,Credit Card,Delivered
+FK2025000553,2025-07-17,CUST00132,Jaipur,Electronics,Smartphone,2,53730,15,8059.5,45670.5,91341.0,Debit Card,Delivered
+FK2025000554,2025-09-21,CUST00412,Jaipur,Electronics,Smartphone,1,68724,30,20617.2,48106.8,48106.8,Cash on Delivery,Delivered
+FK2025000555,2025-06-14,CUST00264,Delhi,Beauty,Face Wash,1,143,25,35.75,107.25,107.25,UPI,Delivered
+FK2025000556,2025-12-17,CUST00218,Delhi,Electronics,Headphones,1,619,5,30.95,588.05,588.05,Credit Card,Delivered
+FK2025000557,2025-11-28,CUST00419,Delhi,Books,Fiction Book,2,868,25,217.0,651.0,1302.0,Credit Card,Cancelled
+FK2025000558,2025-02-07,CUST00028,Bengaluru,Electronics,Smartphone,2,39094,0,0.0,39094.0,78188.0,Debit Card,Delivered
+FK2025000559,2025-07-28,CUST00199,Lucknow,Books,Fiction Book,1,221,5,11.05,209.95,209.95,Cash on Delivery,Delivered
+FK2025000560,2025-10-01,CUST00004,Ahmedabad,Home & Kitchen,Bedsheet,1,1146,25,286.5,859.5,859.5,UPI,Delivered
+FK2025000561,2025-09-15,CUST00055,Chennai,Sports,Cricket Bat,2,1171,0,0.0,1171.0,2342.0,Debit Card,Delivered
+FK2025000562,2025-07-22,CUST00421,Mumbai,Sports,Cricket Bat,1,1507,15,226.05,1280.95,1280.95,Cash on Delivery,Cancelled
+FK2025000563,2025-06-01,CUST00492,Bengaluru,Electronics,Headphones,1,4101,15,615.15,3485.85,3485.85,Debit Card,Returned
+FK2025000564,2025-03-05,CUST00022,Mumbai,Home & Kitchen,Mixer Grinder,1,1590,20,318.0,1272.0,1272.0,Net Banking,Delivered
+FK2025000565,2025-04-18,CUST00384,Kolkata,Sports,Cricket Bat,1,4027,0,0.0,4027.0,4027.0,Credit Card,Delivered
+FK2025000566,2025-03-24,CUST00095,Hyderabad,Home & Kitchen,Bedsheet,1,2353,20,470.6,1882.4,1882.4,Net Banking,Delivered
+FK2025000567,2025-01-28,CUST00436,Jaipur,Fashion,Jeans,1,1594,25,398.5,1195.5,1195.5,Cash on Delivery,Returned
+FK2025000568,2025-02-20,CUST00102,Ahmedabad,Books,Fiction Book,1,223,0,0.0,223.0,223.0,Cash on Delivery,Delivered
+FK2025000569,2025-02-21,CUST00146,Ahmedabad,Home & Kitchen,Mixer Grinder,1,4424,25,1106.0,3318.0,3318.0,UPI,Delivered
+FK2025000570,2025-12-04,CUST00157,Ahmedabad,Fashion,T-Shirt,1,949,10,94.9,854.1,854.1,Credit Card,Returned
+FK2025000571,2025-03-28,CUST00003,Kolkata,Sports,Cricket Bat,1,5442,10,544.2,4897.8,4897.8,Credit Card,Cancelled
+FK2025000572,2025-12-14,CUST00376,Kolkata,Fashion,T-Shirt,1,1192,10,119.2,1072.8,1072.8,Cash on Delivery,Delivered
+FK2025000573,2025-10-10,CUST00056,Bengaluru,Beauty,Face Wash,1,555,10,55.5,499.5,499.5,Net Banking,Cancelled
+FK2025000574,2025-04-11,CUST00135,Delhi,Electronics,Laptop,2,65779,5,3288.95,62490.05,124980.1,UPI,Returned
+FK2025000575,2025-10-24,CUST00208,Ahmedabad,Electronics,Smartphone,1,64677,0,0.0,64677.0,64677.0,Credit Card,Returned
+FK2025000576,2025-12-01,CUST00397,Bengaluru,Electronics,Smartphone,1,45148,20,9029.6,36118.4,36118.4,Debit Card,Cancelled
+FK2025000577,2025-03-10,CUST00238,Jaipur,Home & Kitchen,Bedsheet,2,956,20,191.2,764.8,1529.6,Net Banking,Delivered
+FK2025000578,2025-11-11,CUST00351,Bengaluru,Electronics,Laptop,1,81006,0,0.0,81006.0,81006.0,Net Banking,Delivered
+FK2025000579,2025-12-04,CUST00447,Bengaluru,Electronics,Headphones,1,7809,20,1561.8,6247.2,6247.2,Cash on Delivery,Returned
+FK2025000580,2025-02-02,CUST00136,Kolkata,Home & Kitchen,Mixer Grinder,1,1830,15,274.5,1555.5,1555.5,Credit Card,Delivered
+FK2025000581,2025-07-18,CUST00241,Lucknow,Electronics,Smartphone,1,52815,30,15844.5,36970.5,36970.5,UPI,Delivered
+FK2025000582,2025-11-21,CUST00425,Chennai,Electronics,Smartphone,1,51500,25,12875.0,38625.0,38625.0,Debit Card,Returned
+FK2025000583,2025-07-07,CUST00301,Delhi,Sports,Cricket Bat,1,5258,15,788.7,4469.3,4469.3,Net Banking,Cancelled
+FK2025000584,2025-07-27,CUST00181,Kolkata,Fashion,Jeans,3,2340,5,117.0,2223.0,6669.0,Cash on Delivery,Returned
+FK2025000585,2025-03-26,CUST00118,Delhi,Beauty,Face Wash,1,105,5,5.25,99.75,99.75,Net Banking,Cancelled
+FK2025000586,2025-11-05,CUST00368,Delhi,Fashion,Jeans,1,1665,5,83.25,1581.75,1581.75,Credit Card,Delivered
+FK2025000587,2025-12-12,CUST00246,Lucknow,Home & Kitchen,Bedsheet,1,2160,0,0.0,2160.0,2160.0,Credit Card,Cancelled
+FK2025000588,2025-05-05,CUST00023,Bengaluru,Sports,Cricket Bat,1,2119,15,317.85,1801.15,1801.15,Net Banking,Delivered
+FK2025000589,2025-10-21,CUST00076,Mumbai,Sports,Cricket Bat,1,2118,20,423.6,1694.4,1694.4,Credit Card,Delivered
+FK2025000590,2025-10-16,CUST00327,Mumbai,Fashion,Jeans,1,1536,15,230.4,1305.6,1305.6,Debit Card,Returned
+FK2025000591,2025-03-29,CUST00113,Pune,Electronics,Laptop,1,57388,15,8608.2,48779.8,48779.8,Net Banking,Cancelled
+FK2025000592,2025-03-27,CUST00371,Kolkata,Electronics,Headphones,1,3478,20,695.6,2782.4,2782.4,Cash on Delivery,Delivered
+FK2025000593,2025-03-09,CUST00056,Mumbai,Sports,Cricket Bat,1,5637,15,845.55,4791.45,4791.45,Credit Card,Cancelled
+FK2025000594,2025-11-07,CUST00050,Bengaluru,Books,Fiction Book,1,665,30,199.5,465.5,465.5,Cash on Delivery,Delivered
+FK2025000595,2025-09-15,CUST00386,Delhi,Sports,Cricket Bat,1,5712,30,1713.6,3998.4,3998.4,UPI,Returned
+FK2025000596,2025-12-14,CUST00333,Pune,Beauty,Face Wash,2,232,20,46.4,185.6,371.2,Net Banking,Delivered
+FK2025000597,2025-08-08,CUST00118,Lucknow,Home & Kitchen,Bedsheet,2,1257,25,314.25,942.75,1885.5,Cash on Delivery,Returned
+FK2025000598,2025-02-20,CUST00218,Bengaluru,Home & Kitchen,Mixer Grinder,2,6324,30,1897.2,4426.8,8853.6,Debit Card,Returned
+FK2025000599,2025-11-03,CUST00449,Jaipur,Beauty,Face Wash,2,337,0,0.0,337.0,674.0,Cash on Delivery,Delivered
+FK2025000600,2025-10-23,CUST00268,Delhi,Fashion,Jeans,1,1573,25,393.25,1179.75,1179.75,Net Banking,Delivered
+FK2025000601,2025-07-29,CUST00186,Delhi,Electronics,Smartphone,1,33576,25,8394.0,25182.0,25182.0,Credit Card,Delivered
+FK2025000602,2025-08-05,CUST00290,Kolkata,Home & Kitchen,Bedsheet,1,1833,10,183.3,1649.7,1649.7,Net Banking,Returned
+FK2025000603,2025-10-13,CUST00248,Bengaluru,Fashion,Jeans,2,2426,15,363.9,2062.1,4124.2,Debit Card,Returned
+FK2025000604,2025-06-26,CUST00397,Pune,Books,Fiction Book,1,717,10,71.7,645.3,645.3,Credit Card,Returned
+FK2025000605,2025-02-21,CUST00110,Jaipur,Electronics,Laptop,1,59115,25,14778.75,44336.25,44336.25,Cash on Delivery,Delivered
+FK2025000606,2025-03-24,CUST00200,Mumbai,Home & Kitchen,Mixer Grinder,1,6009,25,1502.25,4506.75,4506.75,UPI,Delivered
+FK2025000607,2025-02-02,CUST00135,Hyderabad,Electronics,Headphones,3,8226,15,1233.9,6992.1,20976.3,Debit Card,Delivered
+FK2025000608,2025-11-11,CUST00336,Jaipur,Electronics,Laptop,1,108825,15,16323.75,92501.25,92501.25,Debit Card,Cancelled
+FK2025000609,2025-11-24,CUST00254,Lucknow,Sports,Cricket Bat,3,1269,30,380.7,888.3,2664.9,UPI,Delivered
+FK2025000610,2025-09-19,CUST00265,Hyderabad,Fashion,T-Shirt,1,1360,0,0.0,1360.0,1360.0,Net Banking,Returned
+FK2025000611,2025-03-22,CUST00045,Chennai,Electronics,Headphones,1,1089,25,272.25,816.75,816.75,Cash on Delivery,Delivered
+FK2025000612,2025-09-23,CUST00008,Delhi,Home & Kitchen,Mixer Grinder,1,6984,20,1396.8,5587.2,5587.2,UPI,Delivered
+FK2025000613,2025-06-28,CUST00178,Chennai,Books,Fiction Book,2,440,20,88.0,352.0,704.0,Credit Card,Returned
+FK2025000614,2025-01-03,CUST00134,Bengaluru,Sports,Cricket Bat,1,2392,15,358.8,2033.2,2033.2,Cash on Delivery,Returned
+FK2025000615,2025-06-24,CUST00485,Delhi,Books,Fiction Book,1,258,20,51.6,206.4,206.4,Net Banking,Delivered
+FK2025000616,2025-09-05,CUST00395,Hyderabad,Fashion,Jeans,1,1823,15,273.45,1549.55,1549.55,Debit Card,Returned
+FK2025000617,2025-09-04,CUST00060,Chennai,Beauty,Face Wash,2,570,30,171.0,399.0,798.0,UPI,Delivered
+FK2025000618,2025-06-11,CUST00212,Kolkata,Home & Kitchen,Bedsheet,2,1796,5,89.8,1706.2,3412.4,Net Banking,Delivered
+FK2025000619,2025-05-28,CUST00048,Pune,Books,Fiction Book,2,158,10,15.8,142.2,284.4,Debit Card,Delivered
+FK2025000620,2025-07-01,CUST00112,Ahmedabad,Electronics,Laptop,3,101685,15,15252.75,86432.25,259296.75,Debit Card,Delivered
+FK2025000621,2025-05-04,CUST00447,Chennai,Electronics,Headphones,1,3614,5,180.7,3433.3,3433.3,Credit Card,Delivered
+FK2025000622,2025-07-02,CUST00080,Delhi,Fashion,T-Shirt,2,714,30,214.2,499.8,999.6,UPI,Returned
+FK2025000623,2025-01-04,CUST00392,Jaipur,Electronics,Laptop,3,117579,15,17636.85,99942.15,299826.45,UPI,Returned
+FK2025000624,2025-05-21,CUST00252,Bengaluru,Beauty,Face Wash,1,479,15,71.85,407.15,407.15,Net Banking,Returned
+FK2025000625,2025-01-28,CUST00270,Pune,Fashion,Jeans,1,2428,20,485.6,1942.4,1942.4,Cash on Delivery,Delivered
+FK2025000626,2025-08-23,CUST00500,Delhi,Books,Fiction Book,1,182,15,27.3,154.7,154.7,Net Banking,Delivered
+FK2025000627,2025-07-14,CUST00298,Delhi,Beauty,Face Wash,1,422,0,0.0,422.0,422.0,Debit Card,Delivered
+FK2025000628,2025-05-15,CUST00122,Chennai,Home & Kitchen,Mixer Grinder,2,6518,5,325.9,6192.1,12384.2,Cash on Delivery,Returned
+FK2025000629,2025-04-18,CUST00215,Kolkata,Sports,Cricket Bat,1,3609,15,541.35,3067.65,3067.65,Debit Card,Cancelled
+FK2025000630,2025-10-22,CUST00352,Hyderabad,Home & Kitchen,Bedsheet,1,1071,20,214.2,856.8,856.8,UPI,Delivered
+FK2025000631,2025-04-11,CUST00075,Bengaluru,Fashion,Jeans,1,1764,30,529.2,1234.8,1234.8,Cash on Delivery,Cancelled
+FK2025000632,2025-10-01,CUST00369,Kolkata,Electronics,Smartphone,1,20573,5,1028.65,19544.35,19544.35,Cash on Delivery,Returned
+FK2025000633,2025-07-23,CUST00051,Bengaluru,Fashion,Jeans,1,1826,20,365.2,1460.8,1460.8,UPI,Delivered
+FK2025000634,2025-08-19,CUST00382,Kolkata,Fashion,T-Shirt,1,819,25,204.75,614.25,614.25,Debit Card,Delivered
+FK2025000635,2025-06-26,CUST00011,Pune,Home & Kitchen,Mixer Grinder,1,4450,30,1335.0,3115.0,3115.0,UPI,Delivered
+FK2025000636,2025-03-31,CUST00400,Chennai,Home & Kitchen,Mixer Grinder,1,6459,20,1291.8,5167.2,5167.2,Debit Card,Returned
+FK2025000637,2025-02-10,CUST00196,Ahmedabad,Home & Kitchen,Mixer Grinder,1,5680,25,1420.0,4260.0,4260.0,Debit Card,Cancelled
+FK2025000638,2025-08-04,CUST00324,Ahmedabad,Beauty,Face Wash,2,247,25,61.75,185.25,370.5,Net Banking,Delivered
+FK2025000639,2025-06-25,CUST00117,Kolkata,Home & Kitchen,Bedsheet,2,2237,0,0.0,2237.0,4474.0,Debit Card,Delivered
+FK2025000640,2025-08-16,CUST00400,Kolkata,Fashion,Jeans,1,1894,15,284.1,1609.9,1609.9,Net Banking,Delivered
+FK2025000641,2025-03-06,CUST00373,Hyderabad,Books,Fiction Book,1,610,5,30.5,579.5,579.5,Debit Card,Delivered
+FK2025000642,2025-02-02,CUST00480,Lucknow,Electronics,Laptop,1,56599,0,0.0,56599.0,56599.0,Net Banking,Delivered
+FK2025000643,2025-02-23,CUST00135,Ahmedabad,Electronics,Smartphone,2,10726,20,2145.2,8580.8,17161.6,Credit Card,Delivered
+FK2025000644,2025-04-28,CUST00127,Chennai,Electronics,Laptop,3,114829,15,17224.35,97604.65,292813.95,Cash on Delivery,Delivered
+FK2025000645,2025-01-18,CUST00340,Kolkata,Electronics,Headphones,1,2649,5,132.45,2516.55,2516.55,Debit Card,Delivered
+FK2025000646,2025-10-08,CUST00228,Bengaluru,Beauty,Face Wash,3,577,20,115.4,461.6,1384.8,Net Banking,Delivered
+FK2025000647,2025-08-11,CUST00269,Jaipur,Electronics,Headphones,1,7979,25,1994.75,5984.25,5984.25,Debit Card,Returned
+FK2025000648,2025-08-15,CUST00158,Kolkata,Home & Kitchen,Mixer Grinder,1,5444,30,1633.2,3810.8,3810.8,Cash on Delivery,Delivered
+FK2025000649,2025-03-11,CUST00177,Chennai,Fashion,Jeans,1,1436,0,0.0,1436.0,1436.0,Cash on Delivery,Returned
+FK2025000650,2025-06-03,CUST00005,Pune,Books,Fiction Book,1,157,15,23.55,133.45,133.45,Debit Card,Cancelled
+FK2025000651,2025-04-07,CUST00211,Jaipur,Sports,Cricket Bat,2,2693,20,538.6,2154.4,4308.8,Cash on Delivery,Delivered
+FK2025000652,2025-07-13,CUST00113,Chennai,Home & Kitchen,Bedsheet,1,1010,25,252.5,757.5,757.5,UPI,Cancelled
+FK2025000653,2025-12-22,CUST00351,Chennai,Home & Kitchen,Bedsheet,1,1779,30,533.7,1245.3,1245.3,Debit Card,Returned
+FK2025000654,2025-04-04,CUST00070,Chennai,Books,Fiction Book,1,424,30,127.2,296.8,296.8,UPI,Delivered
+FK2025000655,2025-04-07,CUST00165,Mumbai,Beauty,Face Wash,1,562,20,112.4,449.6,449.6,Credit Card,Cancelled
+FK2025000656,2025-05-18,CUST00065,Lucknow,Electronics,Smartphone,1,44058,0,0.0,44058.0,44058.0,UPI,Delivered
+FK2025000657,2025-06-25,CUST00216,Chennai,Fashion,T-Shirt,1,483,15,72.45,410.55,410.55,Cash on Delivery,Delivered
+FK2025000658,2025-02-11,CUST00432,Bengaluru,Home & Kitchen,Mixer Grinder,1,5297,0,0.0,5297.0,5297.0,UPI,Delivered
+FK2025000659,2025-04-09,CUST00459,Chennai,Fashion,Jeans,1,2406,15,360.9,2045.1,2045.1,Cash on Delivery,Delivered
+FK2025000660,2025-07-17,CUST00395,Lucknow,Electronics,Smartphone,3,16991,25,4247.75,12743.25,38229.75,Credit Card,Delivered
+FK2025000661,2025-09-24,CUST00341,Hyderabad,Electronics,Smartphone,1,22052,30,6615.6,15436.4,15436.4,Cash on Delivery,Delivered
+FK2025000662,2025-11-19,CUST00373,Mumbai,Home & Kitchen,Bedsheet,3,1894,10,189.4,1704.6,5113.8,Net Banking,Delivered
+FK2025000663,2025-04-12,CUST00185,Mumbai,Books,Fiction Book,1,274,25,68.5,205.5,205.5,Credit Card,Delivered
+FK2025000664,2025-03-27,CUST00407,Chennai,Electronics,Laptop,1,59927,10,5992.7,53934.3,53934.3,Net Banking,Delivered
+FK2025000665,2025-10-25,CUST00402,Lucknow,Electronics,Laptop,2,80878,0,0.0,80878.0,161756.0,Net Banking,Delivered
+FK2025000666,2025-09-13,CUST00047,Ahmedabad,Electronics,Headphones,2,6583,5,329.15,6253.85,12507.7,Debit Card,Delivered
+FK2025000667,2025-02-24,CUST00065,Lucknow,Electronics,Smartphone,1,12916,5,645.8,12270.2,12270.2,Credit Card,Returned
+FK2025000668,2025-08-13,CUST00376,Hyderabad,Home & Kitchen,Mixer Grinder,2,6073,30,1821.9,4251.1,8502.2,UPI,Delivered
+FK2025000669,2025-09-06,CUST00362,Lucknow,Home & Kitchen,Bedsheet,2,1232,10,123.2,1108.8,2217.6,Net Banking,Delivered
+FK2025000670,2025-06-28,CUST00166,Lucknow,Fashion,Jeans,1,2806,5,140.3,2665.7,2665.7,Debit Card,Returned
+FK2025000671,2025-08-19,CUST00152,Chennai,Sports,Cricket Bat,1,5341,20,1068.2,4272.8,4272.8,Net Banking,Delivered
+FK2025000672,2025-07-14,CUST00376,Bengaluru,Home & Kitchen,Mixer Grinder,1,5218,25,1304.5,3913.5,3913.5,UPI,Returned
+FK2025000673,2025-02-02,CUST00338,Jaipur,Sports,Cricket Bat,2,3781,5,189.05,3591.95,7183.9,Cash on Delivery,Delivered
+FK2025000674,2025-03-20,CUST00314,Chennai,Fashion,T-Shirt,1,1372,30,411.6,960.4,960.4,Debit Card,Returned
+FK2025000675,2025-12-04,CUST00035,Mumbai,Home & Kitchen,Bedsheet,1,1811,0,0.0,1811.0,1811.0,Credit Card,Returned
+FK2025000676,2025-02-20,CUST00017,Ahmedabad,Electronics,Headphones,1,1011,15,151.65,859.35,859.35,Cash on Delivery,Delivered
+FK2025000677,2025-01-26,CUST00188,Hyderabad,Beauty,Face Wash,1,637,20,127.4,509.6,509.6,Net Banking,Delivered
+FK2025000678,2025-02-10,CUST00240,Mumbai,Electronics,Laptop,3,30714,5,1535.7,29178.3,87534.9,Debit Card,Cancelled
+FK2025000679,2025-11-12,CUST00137,Jaipur,Books,Fiction Book,2,574,30,172.2,401.8,803.6,UPI,Delivered
+FK2025000680,2025-02-19,CUST00052,Hyderabad,Electronics,Laptop,1,68832,5,3441.6,65390.4,65390.4,Net Banking,Returned
+FK2025000681,2025-10-19,CUST00321,Bengaluru,Home & Kitchen,Bedsheet,1,887,25,221.75,665.25,665.25,Net Banking,Delivered
+FK2025000682,2025-07-03,CUST00346,Lucknow,Books,Fiction Book,2,574,30,172.2,401.8,803.6,Cash on Delivery,Returned
+FK2025000683,2025-09-16,CUST00173,Bengaluru,Electronics,Laptop,2,50863,20,10172.6,40690.4,81380.8,Net Banking,Cancelled
+FK2025000684,2025-06-16,CUST00433,Kolkata,Sports,Cricket Bat,3,4428,10,442.8,3985.2,11955.6,Cash on Delivery,Returned
+FK2025000685,2025-10-16,CUST00280,Hyderabad,Home & Kitchen,Bedsheet,2,2190,20,438.0,1752.0,3504.0,Cash on Delivery,Delivered
+FK2025000686,2025-07-23,CUST00001,Mumbai,Books,Fiction Book,1,409,15,61.35,347.65,347.65,Debit Card,Cancelled
+FK2025000687,2025-06-03,CUST00114,Hyderabad,Sports,Cricket Bat,1,932,10,93.2,838.8,838.8,Debit Card,Delivered
+FK2025000688,2025-10-11,CUST00262,Jaipur,Electronics,Smartphone,2,59561,25,14890.25,44670.75,89341.5,Net Banking,Delivered
+FK2025000689,2025-03-21,CUST00071,Chennai,Sports,Cricket Bat,1,2066,15,309.9,1756.1,1756.1,Debit Card,Delivered
+FK2025000690,2025-02-17,CUST00293,Pune,Sports,Cricket Bat,1,2845,30,853.5,1991.5,1991.5,Net Banking,Delivered
+FK2025000691,2025-03-30,CUST00250,Ahmedabad,Fashion,T-Shirt,2,457,30,137.1,319.9,639.8,UPI,Cancelled
+FK2025000692,2025-07-15,CUST00041,Mumbai,Sports,Cricket Bat,1,3259,30,977.7,2281.3,2281.3,Debit Card,Returned
+FK2025000693,2025-04-27,CUST00383,Ahmedabad,Home & Kitchen,Mixer Grinder,1,5056,30,1516.8,3539.2,3539.2,UPI,Delivered
+FK2025000694,2025-10-04,CUST00290,Bengaluru,Home & Kitchen,Bedsheet,1,609,0,0.0,609.0,609.0,Debit Card,Delivered
+FK2025000695,2025-08-17,CUST00386,Ahmedabad,Books,Fiction Book,1,863,0,0.0,863.0,863.0,Net Banking,Cancelled
+FK2025000696,2025-03-17,CUST00068,Kolkata,Books,Fiction Book,1,241,10,24.1,216.9,216.9,UPI,Cancelled
+FK2025000697,2025-05-15,CUST00044,Pune,Beauty,Face Wash,2,684,20,136.8,547.2,1094.4,Net Banking,Cancelled
+FK2025000698,2025-09-04,CUST00287,Hyderabad,Home & Kitchen,Bedsheet,1,2083,30,624.9,1458.1,1458.1,Cash on Delivery,Delivered
+FK2025000699,2025-09-26,CUST00127,Hyderabad,Home & Kitchen,Bedsheet,1,1834,20,366.8,1467.2,1467.2,UPI,Returned
+FK2025000700,2025-02-27,CUST00344,Pune,Fashion,Jeans,1,2560,20,512.0,2048.0,2048.0,Cash on Delivery,Delivered
+FK2025000701,2025-12-02,CUST00013,Chennai,Home & Kitchen,Mixer Grinder,1,4352,10,435.2,3916.8,3916.8,Credit Card,Returned
+FK2025000702,2025-11-16,CUST00075,Lucknow,Home & Kitchen,Mixer Grinder,2,6547,30,1964.1,4582.9,9165.8,UPI,Cancelled
+FK2025000703,2025-02-27,CUST00379,Mumbai,Fashion,T-Shirt,1,707,5,35.35,671.65,671.65,Credit Card,Delivered
+FK2025000704,2025-01-08,CUST00176,Delhi,Sports,Cricket Bat,2,2008,30,602.4,1405.6,2811.2,Debit Card,Delivered
+FK2025000705,2025-04-19,CUST00105,Jaipur,Beauty,Face Wash,1,581,5,29.05,551.95,551.95,Net Banking,Returned
+FK2025000706,2025-07-12,CUST00299,Jaipur,Fashion,Jeans,1,2777,5,138.85,2638.15,2638.15,UPI,Delivered
+FK2025000707,2025-05-19,CUST00028,Lucknow,Fashion,Jeans,1,1496,5,74.8,1421.2,1421.2,UPI,Returned
+FK2025000708,2025-02-25,CUST00010,Chennai,Electronics,Laptop,1,79939,25,19984.75,59954.25,59954.25,Cash on Delivery,Delivered
+FK2025000709,2025-06-11,CUST00249,Ahmedabad,Fashion,T-Shirt,1,1078,25,269.5,808.5,808.5,Net Banking,Delivered
+FK2025000710,2025-12-31,CUST00012,Mumbai,Electronics,Laptop,1,53433,15,8014.95,45418.05,45418.05,Credit Card,Returned
+FK2025000711,2025-01-10,CUST00178,Kolkata,Books,Fiction Book,1,461,15,69.15,391.85,391.85,Debit Card,Delivered
+FK2025000712,2025-02-01,CUST00321,Chennai,Fashion,Jeans,4,1766,20,353.2,1412.8,5651.2,Cash on Delivery,Delivered
+FK2025000713,2025-06-24,CUST00460,Pune,Electronics,Smartphone,3,45367,5,2268.35,43098.65,129295.95,Credit Card,Delivered
+FK2025000714,2025-11-17,CUST00352,Hyderabad,Electronics,Laptop,1,79095,25,19773.75,59321.25,59321.25,Cash on Delivery,Returned
+FK2025000715,2025-06-18,CUST00230,Jaipur,Fashion,T-Shirt,1,1472,10,147.2,1324.8,1324.8,Credit Card,Returned
+FK2025000716,2025-03-12,CUST00159,Jaipur,Fashion,T-Shirt,1,582,25,145.5,436.5,436.5,Credit Card,Delivered
+FK2025000717,2025-03-22,CUST00163,Delhi,Home & Kitchen,Bedsheet,3,2360,5,118.0,2242.0,6726.0,Net Banking,Returned
+FK2025000718,2025-01-16,CUST00392,Kolkata,Books,Fiction Book,1,885,10,88.5,796.5,796.5,Cash on Delivery,Delivered
+FK2025000719,2025-03-19,CUST00399,Hyderabad,Home & Kitchen,Bedsheet,1,1120,30,336.0,784.0,784.0,UPI,Delivered
+FK2025000720,2025-05-17,CUST00311,Ahmedabad,Electronics,Headphones,1,3525,20,705.0,2820.0,2820.0,Net Banking,Returned
+FK2025000721,2025-02-10,CUST00353,Lucknow,Fashion,T-Shirt,1,774,0,0.0,774.0,774.0,Credit Card,Delivered
+FK2025000722,2025-04-05,CUST00437,Pune,Books,Fiction Book,1,768,25,192.0,576.0,576.0,Cash on Delivery,Delivered
+FK2025000723,2025-07-29,CUST00392,Mumbai,Beauty,Face Wash,1,239,5,11.95,227.05,227.05,Debit Card,Delivered
+FK2025000724,2025-02-03,CUST00091,Lucknow,Home & Kitchen,Bedsheet,2,954,5,47.7,906.3,1812.6,Net Banking,Delivered
+FK2025000725,2025-07-27,CUST00398,Mumbai,Beauty,Face Wash,2,431,5,21.55,409.45,818.9,Net Banking,Cancelled
+FK2025000726,2025-11-01,CUST00275,Jaipur,Home & Kitchen,Bedsheet,1,1973,20,394.6,1578.4,1578.4,UPI,Returned
+FK2025000727,2025-05-06,CUST00266,Jaipur,Books,Fiction Book,1,260,30,78.0,182.0,182.0,Cash on Delivery,Delivered
+FK2025000728,2025-04-08,CUST00150,Lucknow,Electronics,Smartphone,1,45548,30,13664.4,31883.6,31883.6,Cash on Delivery,Delivered
+FK2025000729,2025-11-10,CUST00471,Mumbai,Fashion,Jeans,1,1970,15,295.5,1674.5,1674.5,Net Banking,Delivered
+FK2025000730,2025-09-14,CUST00058,Bengaluru,Electronics,Headphones,2,8094,15,1214.1,6879.9,13759.8,Net Banking,Delivered
+FK2025000731,2025-01-13,CUST00092,Lucknow,Books,Fiction Book,1,287,10,28.7,258.3,258.3,Net Banking,Cancelled
+FK2025000732,2025-03-05,CUST00047,Delhi,Fashion,T-Shirt,1,1230,10,123.0,1107.0,1107.0,Cash on Delivery,Delivered
+FK2025000733,2025-11-10,CUST00487,Bengaluru,Home & Kitchen,Mixer Grinder,1,2197,15,329.55,1867.45,1867.45,Cash on Delivery,Returned
+FK2025000734,2025-10-17,CUST00447,Bengaluru,Books,Fiction Book,1,538,5,26.9,511.1,511.1,Credit Card,Delivered
+FK2025000735,2025-06-07,CUST00159,Lucknow,Electronics,Headphones,2,3429,0,0.0,3429.0,6858.0,Debit Card,Cancelled
+FK2025000736,2025-11-15,CUST00392,Chennai,Electronics,Headphones,2,2425,5,121.25,2303.75,4607.5,UPI,Delivered
+FK2025000737,2025-11-08,CUST00452,Lucknow,Beauty,Face Wash,2,608,20,121.6,486.4,972.8,Credit Card,Delivered
+FK2025000738,2025-11-04,CUST00308,Mumbai,Fashion,T-Shirt,1,1273,15,190.95,1082.05,1082.05,Credit Card,Delivered
+FK2025000739,2025-01-26,CUST00095,Bengaluru,Books,Fiction Book,1,433,20,86.6,346.4,346.4,UPI,Delivered
+FK2025000740,2025-11-05,CUST00153,Kolkata,Home & Kitchen,Mixer Grinder,1,1799,0,0.0,1799.0,1799.0,UPI,Returned
+FK2025000741,2025-12-11,CUST00146,Ahmedabad,Electronics,Smartphone,1,16135,5,806.75,15328.25,15328.25,Net Banking,Delivered
+FK2025000742,2025-07-04,CUST00477,Mumbai,Sports,Cricket Bat,1,5404,15,810.6,4593.4,4593.4,UPI,Returned
+FK2025000743,2025-08-07,CUST00432,Jaipur,Fashion,Jeans,1,2121,15,318.15,1802.85,1802.85,UPI,Delivered
+FK2025000744,2025-06-18,CUST00270,Pune,Fashion,Jeans,1,2727,25,681.75,2045.25,2045.25,Net Banking,Delivered
+FK2025000745,2025-11-19,CUST00271,Delhi,Fashion,T-Shirt,1,727,0,0.0,727.0,727.0,Cash on Delivery,Returned
+FK2025000746,2025-05-13,CUST00270,Ahmedabad,Sports,Cricket Bat,1,3151,30,945.3,2205.7,2205.7,Net Banking,Delivered
+FK2025000747,2025-11-20,CUST00255,Lucknow,Home & Kitchen,Mixer Grinder,1,2561,15,384.15,2176.85,2176.85,Credit Card,Returned
+FK2025000748,2025-03-02,CUST00013,Lucknow,Sports,Cricket Bat,2,2705,5,135.25,2569.75,5139.5,UPI,Delivered
+FK2025000749,2025-10-14,CUST00413,Hyderabad,Fashion,T-Shirt,1,1148,10,114.8,1033.2,1033.2,UPI,Delivered
+FK2025000750,2025-06-03,CUST00260,Jaipur,Fashion,T-Shirt,1,875,0,0.0,875.0,875.0,Debit Card,Delivered
+FK2025000751,2025-10-19,CUST00316,Mumbai,Electronics,Smartphone,1,16459,10,1645.9,14813.1,14813.1,Credit Card,Cancelled
+FK2025000752,2025-08-31,CUST00409,Mumbai,Fashion,T-Shirt,2,975,25,243.75,731.25,1462.5,Credit Card,Cancelled
+FK2025000753,2025-06-21,CUST00237,Pune,Beauty,Face Wash,1,258,30,77.4,180.6,180.6,UPI,Returned
+FK2025000754,2025-10-12,CUST00275,Mumbai,Books,Fiction Book,1,455,25,113.75,341.25,341.25,Credit Card,Delivered
+FK2025000755,2025-02-03,CUST00497,Bengaluru,Sports,Cricket Bat,2,3516,30,1054.8,2461.2,4922.4,Debit Card,Delivered
+FK2025000756,2025-03-26,CUST00293,Ahmedabad,Electronics,Smartphone,4,31225,25,7806.25,23418.75,93675.0,Cash on Delivery,Returned
+FK2025000757,2025-12-28,CUST00440,Kolkata,Electronics,Headphones,2,2413,30,723.9,1689.1,3378.2,UPI,Delivered
+FK2025000758,2025-08-20,CUST00425,Chennai,Fashion,Jeans,1,2494,5,124.7,2369.3,2369.3,Credit Card,Delivered
+FK2025000759,2025-04-14,CUST00468,Delhi,Books,Fiction Book,1,458,10,45.8,412.2,412.2,Cash on Delivery,Delivered
+FK2025000760,2025-04-08,CUST00175,Lucknow,Books,Fiction Book,2,174,20,34.8,139.2,278.4,Net Banking,Delivered
+FK2025000761,2025-09-22,CUST00347,Bengaluru,Fashion,Jeans,1,2139,30,641.7,1497.3,1497.3,Credit Card,Delivered
+FK2025000762,2025-03-01,CUST00003,Chennai,Electronics,Smartphone,1,39104,30,11731.2,27372.8,27372.8,UPI,Returned
+FK2025000763,2025-09-24,CUST00393,Chennai,Sports,Cricket Bat,1,1512,0,0.0,1512.0,1512.0,UPI,Delivered
+FK2025000764,2025-04-13,CUST00099,Chennai,Sports,Cricket Bat,1,3356,5,167.8,3188.2,3188.2,Debit Card,Delivered
+FK2025000765,2025-05-20,CUST00077,Bengaluru,Books,Fiction Book,2,475,25,118.75,356.25,712.5,Debit Card,Delivered
+FK2025000766,2025-02-22,CUST00106,Jaipur,Electronics,Laptop,3,30998,20,6199.6,24798.4,74395.2,Debit Card,Returned
+FK2025000767,2025-10-21,CUST00126,Bengaluru,Books,Fiction Book,1,475,25,118.75,356.25,356.25,UPI,Delivered
+FK2025000768,2025-01-15,CUST00242,Mumbai,Fashion,Jeans,1,2186,0,0.0,2186.0,2186.0,UPI,Delivered
+FK2025000769,2025-12-27,CUST00306,Ahmedabad,Home & Kitchen,Bedsheet,1,609,15,91.35,517.65,517.65,Cash on Delivery,Delivered
+FK2025000770,2025-12-10,CUST00415,Jaipur,Sports,Cricket Bat,1,3712,30,1113.6,2598.4,2598.4,UPI,Delivered
+FK2025000771,2025-02-19,CUST00234,Chennai,Beauty,Face Wash,1,680,30,204.0,476.0,476.0,Cash on Delivery,Cancelled
+FK2025000772,2025-05-13,CUST00468,Kolkata,Beauty,Face Wash,3,336,5,16.8,319.2,957.6,Cash on Delivery,Returned
+FK2025000773,2025-09-07,CUST00016,Delhi,Electronics,Headphones,2,5911,10,591.1,5319.9,10639.8,Cash on Delivery,Cancelled
+FK2025000774,2025-05-25,CUST00394,Kolkata,Electronics,Laptop,1,75063,30,22518.9,52544.1,52544.1,Net Banking,Delivered
+FK2025000775,2025-06-16,CUST00285,Delhi,Sports,Cricket Bat,1,1842,15,276.3,1565.7,1565.7,Debit Card,Delivered
+FK2025000776,2025-11-14,CUST00125,Jaipur,Books,Fiction Book,1,621,15,93.15,527.85,527.85,Credit Card,Delivered
+FK2025000777,2025-08-09,CUST00402,Pune,Beauty,Face Wash,1,492,5,24.6,467.4,467.4,Net Banking,Returned
+FK2025000778,2025-12-31,CUST00294,Lucknow,Home & Kitchen,Mixer Grinder,1,5959,5,297.95,5661.05,5661.05,UPI,Delivered
+FK2025000779,2025-08-16,CUST00091,Chennai,Sports,Cricket Bat,1,5682,20,1136.4,4545.6,4545.6,Cash on Delivery,Delivered
+FK2025000780,2025-07-14,CUST00168,Lucknow,Electronics,Laptop,1,107414,30,32224.2,75189.8,75189.8,UPI,Returned
+FK2025000781,2025-03-17,CUST00339,Bengaluru,Electronics,Laptop,2,57521,20,11504.2,46016.8,92033.6,Cash on Delivery,Delivered
+FK2025000782,2025-04-11,CUST00106,Kolkata,Books,Fiction Book,1,447,20,89.4,357.6,357.6,Debit Card,Cancelled
+FK2025000783,2025-02-15,CUST00299,Mumbai,Sports,Cricket Bat,2,3293,15,493.95,2799.05,5598.1,Net Banking,Delivered
+FK2025000784,2025-02-01,CUST00190,Jaipur,Books,Fiction Book,2,562,30,168.6,393.4,786.8,UPI,Delivered
+FK2025000785,2025-05-25,CUST00444,Mumbai,Electronics,Smartphone,1,55094,10,5509.4,49584.6,49584.6,Credit Card,Delivered
+FK2025000786,2025-12-31,CUST00196,Pune,Home & Kitchen,Bedsheet,1,1937,25,484.25,1452.75,1452.75,Cash on Delivery,Delivered
+FK2025000787,2025-03-13,CUST00097,Jaipur,Home & Kitchen,Bedsheet,1,1615,5,80.75,1534.25,1534.25,Cash on Delivery,Cancelled
+FK2025000788,2025-03-10,CUST00006,Delhi,Home & Kitchen,Mixer Grinder,1,4916,30,1474.8,3441.2,3441.2,UPI,Delivered
+FK2025000789,2025-03-12,CUST00329,Pune,Electronics,Headphones,1,8473,5,423.65,8049.35,8049.35,Cash on Delivery,Delivered
+FK2025000790,2025-08-06,CUST00283,Lucknow,Sports,Cricket Bat,1,4286,15,642.9,3643.1,3643.1,Cash on Delivery,Returned
+FK2025000791,2025-10-23,CUST00256,Hyderabad,Home & Kitchen,Mixer Grinder,1,3348,20,669.6,2678.4,2678.4,Net Banking,Delivered
+FK2025000792,2025-01-18,CUST00020,Ahmedabad,Fashion,Jeans,3,2481,20,496.2,1984.8,5954.4,Cash on Delivery,Delivered
+FK2025000793,2025-03-14,CUST00374,Jaipur,Home & Kitchen,Mixer Grinder,1,2426,25,606.5,1819.5,1819.5,Debit Card,Delivered
+FK2025000794,2025-05-06,CUST00242,Delhi,Beauty,Face Wash,1,628,20,125.6,502.4,502.4,Net Banking,Delivered
+FK2025000795,2025-01-06,CUST00241,Lucknow,Sports,Cricket Bat,1,3358,10,335.8,3022.2,3022.2,Net Banking,Returned
+FK2025000796,2025-05-31,CUST00149,Bengaluru,Beauty,Face Wash,2,686,15,102.9,583.1,1166.2,UPI,Delivered
+FK2025000797,2025-02-01,CUST00323,Lucknow,Sports,Cricket Bat,2,3289,20,657.8,2631.2,5262.4,Net Banking,Delivered
+FK2025000798,2025-01-14,CUST00147,Lucknow,Electronics,Headphones,1,1344,10,134.4,1209.6,1209.6,UPI,Returned
+FK2025000799,2025-05-10,CUST00068,Ahmedabad,Electronics,Headphones,1,8782,30,2634.6,6147.4,6147.4,Debit Card,Delivered
+FK2025000800,2025-03-31,CUST00466,Ahmedabad,Fashion,Jeans,1,1851,0,0.0,1851.0,1851.0,Credit Card,Returned
+FK2025000801,2025-09-06,CUST00093,Jaipur,Beauty,Face Wash,2,477,10,47.7,429.3,858.6,UPI,Delivered
+FK2025000802,2025-09-11,CUST00386,Pune,Home & Kitchen,Mixer Grinder,3,2190,20,438.0,1752.0,5256.0,Cash on Delivery,Delivered
+FK2025000803,2025-10-23,CUST00376,Kolkata,Fashion,T-Shirt,2,1200,5,60.0,1140.0,2280.0,UPI,Delivered
+FK2025000804,2025-09-01,CUST00155,Lucknow,Fashion,Jeans,1,1274,15,191.1,1082.9,1082.9,Net Banking,Cancelled
+FK2025000805,2025-05-15,CUST00075,Jaipur,Fashion,T-Shirt,1,1076,15,161.4,914.6,914.6,Cash on Delivery,Cancelled
+FK2025000806,2025-12-14,CUST00162,Jaipur,Electronics,Smartphone,3,27925,15,4188.75,23736.25,71208.75,UPI,Cancelled
+FK2025000807,2025-11-09,CUST00471,Chennai,Electronics,Laptop,1,98636,30,29590.8,69045.2,69045.2,Debit Card,Cancelled
+FK2025000808,2025-07-20,CUST00237,Hyderabad,Fashion,Jeans,2,1892,10,189.2,1702.8,3405.6,Net Banking,Returned
+FK2025000809,2025-06-10,CUST00281,Mumbai,Fashion,T-Shirt,1,1363,25,340.75,1022.25,1022.25,UPI,Delivered
+FK2025000810,2025-12-17,CUST00229,Kolkata,Electronics,Laptop,1,30566,20,6113.2,24452.8,24452.8,Credit Card,Delivered
+FK2025000811,2025-02-17,CUST00030,Ahmedabad,Fashion,Jeans,1,1830,0,0.0,1830.0,1830.0,Credit Card,Returned
+FK2025000812,2025-11-06,CUST00067,Pune,Sports,Cricket Bat,2,1796,0,0.0,1796.0,3592.0,Net Banking,Delivered
+FK2025000813,2025-08-28,CUST00339,Delhi,Electronics,Headphones,1,2315,10,231.5,2083.5,2083.5,Cash on Delivery,Delivered
+FK2025000814,2025-05-12,CUST00083,Delhi,Fashion,Jeans,1,2547,25,636.75,1910.25,1910.25,Debit Card,Delivered
+FK2025000815,2025-05-16,CUST00092,Lucknow,Electronics,Smartphone,1,34086,0,0.0,34086.0,34086.0,UPI,Delivered
+FK2025000816,2025-02-25,CUST00074,Jaipur,Beauty,Face Wash,1,304,5,15.2,288.8,288.8,Cash on Delivery,Cancelled
+FK2025000817,2025-02-22,CUST00018,Delhi,Fashion,T-Shirt,2,516,25,129.0,387.0,774.0,UPI,Delivered
+FK2025000818,2025-03-18,CUST00335,Mumbai,Sports,Cricket Bat,2,2851,0,0.0,2851.0,5702.0,UPI,Cancelled
+FK2025000819,2025-10-22,CUST00002,Jaipur,Home & Kitchen,Bedsheet,1,1044,10,104.4,939.6,939.6,Cash on Delivery,Cancelled
+FK2025000820,2025-10-04,CUST00116,Mumbai,Beauty,Face Wash,1,545,25,136.25,408.75,408.75,Cash on Delivery,Delivered
+FK2025000821,2025-12-16,CUST00156,Pune,Beauty,Face Wash,1,223,10,22.3,200.7,200.7,UPI,Delivered
+FK2025000822,2025-08-24,CUST00390,Chennai,Electronics,Laptop,1,76886,10,7688.6,69197.4,69197.4,Credit Card,Delivered
+FK2025000823,2025-06-03,CUST00357,Pune,Electronics,Headphones,3,1143,25,285.75,857.25,2571.75,UPI,Delivered
+FK2025000824,2025-04-08,CUST00072,Mumbai,Home & Kitchen,Mixer Grinder,1,5484,25,1371.0,4113.0,4113.0,Credit Card,Cancelled
+FK2025000825,2025-07-19,CUST00033,Jaipur,Electronics,Smartphone,4,56167,5,2808.35,53358.65,213434.6,Debit Card,Cancelled
+FK2025000826,2025-01-09,CUST00019,Kolkata,Beauty,Face Wash,3,645,30,193.5,451.5,1354.5,UPI,Cancelled
+FK2025000827,2025-08-23,CUST00482,Jaipur,Home & Kitchen,Mixer Grinder,1,1849,5,92.45,1756.55,1756.55,Credit Card,Returned
+FK2025000828,2025-09-08,CUST00335,Mumbai,Sports,Cricket Bat,3,2707,0,0.0,2707.0,8121.0,Cash on Delivery,Delivered
+FK2025000829,2025-01-08,CUST00089,Mumbai,Sports,Cricket Bat,1,1174,25,293.5,880.5,880.5,Debit Card,Delivered
+FK2025000830,2025-02-02,CUST00419,Delhi,Electronics,Laptop,1,88792,30,26637.6,62154.4,62154.4,UPI,Returned
+FK2025000831,2025-06-22,CUST00416,Pune,Beauty,Face Wash,1,324,5,16.2,307.8,307.8,Debit Card,Cancelled
+FK2025000832,2025-04-20,CUST00392,Mumbai,Electronics,Laptop,1,118663,5,5933.15,112729.85,112729.85,Net Banking,Delivered
+FK2025000833,2025-08-01,CUST00087,Kolkata,Electronics,Headphones,1,5995,10,599.5,5395.5,5395.5,Net Banking,Delivered
+FK2025000834,2025-03-10,CUST00052,Ahmedabad,Electronics,Headphones,1,7686,20,1537.2,6148.8,6148.8,Cash on Delivery,Delivered
+FK2025000835,2025-01-04,CUST00092,Delhi,Electronics,Headphones,2,755,0,0.0,755.0,1510.0,Net Banking,Delivered
+FK2025000836,2025-12-21,CUST00065,Hyderabad,Fashion,Jeans,1,2503,30,750.9,1752.1,1752.1,Credit Card,Cancelled
+FK2025000837,2025-11-09,CUST00355,Mumbai,Fashion,Jeans,1,2941,5,147.05,2793.95,2793.95,Net Banking,Delivered
+FK2025000838,2025-06-28,CUST00215,Mumbai,Electronics,Headphones,1,8689,0,0.0,8689.0,8689.0,Net Banking,Delivered
+FK2025000839,2025-11-13,CUST00186,Jaipur,Fashion,T-Shirt,1,692,20,138.4,553.6,553.6,Net Banking,Delivered
+FK2025000840,2025-05-22,CUST00028,Hyderabad,Fashion,T-Shirt,2,1249,25,312.25,936.75,1873.5,UPI,Delivered
+FK2025000841,2025-01-28,CUST00331,Kolkata,Electronics,Headphones,1,8271,5,413.55,7857.45,7857.45,Debit Card,Delivered
+FK2025000842,2025-01-23,CUST00054,Mumbai,Fashion,T-Shirt,1,1189,20,237.8,951.2,951.2,Net Banking,Cancelled
+FK2025000843,2025-03-01,CUST00037,Hyderabad,Electronics,Headphones,2,3088,15,463.2,2624.8,5249.6,Cash on Delivery,Returned
+FK2025000844,2025-04-28,CUST00399,Delhi,Sports,Cricket Bat,1,5548,5,277.4,5270.6,5270.6,Debit Card,Delivered
+FK2025000845,2025-07-12,CUST00457,Hyderabad,Fashion,T-Shirt,1,499,15,74.85,424.15,424.15,UPI,Delivered
+FK2025000846,2025-04-21,CUST00476,Ahmedabad,Beauty,Face Wash,1,698,15,104.7,593.3,593.3,Cash on Delivery,Delivered
+FK2025000847,2025-11-20,CUST00184,Chennai,Electronics,Headphones,1,6845,15,1026.75,5818.25,5818.25,Credit Card,Delivered
+FK2025000848,2025-05-24,CUST00070,Delhi,Home & Kitchen,Mixer Grinder,1,2541,20,508.2,2032.8,2032.8,Cash on Delivery,Delivered
+FK2025000849,2025-06-01,CUST00310,Bengaluru,Beauty,Face Wash,1,527,10,52.7,474.3,474.3,Net Banking,Delivered
+FK2025000850,2025-09-08,CUST00442,Hyderabad,Electronics,Headphones,1,4262,30,1278.6,2983.4,2983.4,Net Banking,Returned
+FK2025000851,2025-05-07,CUST00127,Kolkata,Beauty,Face Wash,1,572,25,143.0,429.0,429.0,Cash on Delivery,Cancelled
+FK2025000852,2025-10-21,CUST00460,Mumbai,Sports,Cricket Bat,2,2620,20,524.0,2096.0,4192.0,Cash on Delivery,Delivered
+FK2025000853,2025-01-18,CUST00218,Jaipur,Electronics,Smartphone,4,11624,25,2906.0,8718.0,34872.0,Cash on Delivery,Returned
+FK2025000854,2025-10-13,CUST00386,Mumbai,Beauty,Face Wash,1,199,5,9.95,189.05,189.05,Cash on Delivery,Delivered
+FK2025000855,2025-01-09,CUST00246,Chennai,Fashion,T-Shirt,1,570,5,28.5,541.5,541.5,Credit Card,Delivered
+FK2025000856,2025-08-26,CUST00396,Bengaluru,Beauty,Face Wash,2,683,0,0.0,683.0,1366.0,Cash on Delivery,Cancelled
+FK2025000857,2025-11-18,CUST00037,Pune,Electronics,Headphones,1,6567,25,1641.75,4925.25,4925.25,Debit Card,Delivered
+FK2025000858,2025-12-24,CUST00485,Ahmedabad,Books,Fiction Book,1,182,30,54.6,127.4,127.4,Net Banking,Delivered
+FK2025000859,2025-06-21,CUST00377,Mumbai,Sports,Cricket Bat,2,2495,0,0.0,2495.0,4990.0,Net Banking,Returned
+FK2025000860,2025-11-13,CUST00021,Kolkata,Home & Kitchen,Mixer Grinder,1,1921,10,192.1,1728.9,1728.9,Debit Card,Cancelled
+FK2025000861,2025-03-12,CUST00172,Hyderabad,Electronics,Headphones,1,1596,30,478.8,1117.2,1117.2,Net Banking,Delivered
+FK2025000862,2025-12-26,CUST00108,Hyderabad,Electronics,Laptop,1,114069,30,34220.7,79848.3,79848.3,Debit Card,Returned
+FK2025000863,2025-01-28,CUST00033,Kolkata,Home & Kitchen,Mixer Grinder,1,3689,15,553.35,3135.65,3135.65,Debit Card,Delivered
+FK2025000864,2025-08-29,CUST00364,Jaipur,Beauty,Face Wash,1,596,30,178.8,417.2,417.2,Net Banking,Delivered
+FK2025000865,2025-04-07,CUST00457,Lucknow,Fashion,Jeans,1,2650,30,795.0,1855.0,1855.0,UPI,Delivered
+FK2025000866,2025-02-25,CUST00085,Chennai,Electronics,Laptop,2,80206,10,8020.6,72185.4,144370.8,UPI,Delivered
+FK2025000867,2025-11-18,CUST00012,Chennai,Electronics,Headphones,1,8630,5,431.5,8198.5,8198.5,Cash on Delivery,Returned
+FK2025000868,2025-11-27,CUST00011,Chennai,Books,Fiction Book,1,284,15,42.6,241.4,241.4,Credit Card,Cancelled
+FK2025000869,2025-11-27,CUST00172,Pune,Electronics,Laptop,2,31887,5,1594.35,30292.65,60585.3,Net Banking,Returned
+FK2025000870,2025-10-31,CUST00341,Jaipur,Home & Kitchen,Mixer Grinder,1,6870,10,687.0,6183.0,6183.0,Net Banking,Cancelled
+FK2025000871,2025-03-29,CUST00405,Chennai,Beauty,Face Wash,1,567,5,28.35,538.65,538.65,Credit Card,Delivered
+FK2025000872,2025-03-17,CUST00181,Chennai,Beauty,Face Wash,3,479,30,143.7,335.3,1005.9,Cash on Delivery,Delivered
+FK2025000873,2025-03-31,CUST00430,Bengaluru,Electronics,Headphones,2,3133,10,313.3,2819.7,5639.4,Credit Card,Delivered
+FK2025000874,2025-03-06,CUST00226,Chennai,Fashion,T-Shirt,1,538,10,53.8,484.2,484.2,Debit Card,Returned
+FK2025000875,2025-06-26,CUST00076,Kolkata,Electronics,Headphones,1,3860,0,0.0,3860.0,3860.0,Cash on Delivery,Delivered
+FK2025000876,2025-07-27,CUST00477,Lucknow,Books,Fiction Book,1,315,0,0.0,315.0,315.0,Credit Card,Delivered
+FK2025000877,2025-09-17,CUST00170,Chennai,Beauty,Face Wash,1,426,25,106.5,319.5,319.5,Cash on Delivery,Returned
+FK2025000878,2025-06-23,CUST00353,Delhi,Fashion,Jeans,2,1401,25,350.25,1050.75,2101.5,Cash on Delivery,Cancelled
+FK2025000879,2025-01-13,CUST00206,Ahmedabad,Electronics,Smartphone,1,18136,0,0.0,18136.0,18136.0,Credit Card,Delivered
+FK2025000880,2025-11-25,CUST00100,Ahmedabad,Beauty,Face Wash,1,464,0,0.0,464.0,464.0,Net Banking,Returned
+FK2025000881,2025-08-17,CUST00347,Delhi,Fashion,T-Shirt,1,868,0,0.0,868.0,868.0,Net Banking,Returned
+FK2025000882,2025-09-19,CUST00484,Mumbai,Home & Kitchen,Bedsheet,1,897,20,179.4,717.6,717.6,Debit Card,Returned
+FK2025000883,2025-07-17,CUST00191,Mumbai,Home & Kitchen,Bedsheet,2,801,15,120.15,680.85,1361.7,Debit Card,Delivered
+FK2025000884,2025-02-14,CUST00111,Lucknow,Home & Kitchen,Mixer Grinder,1,4377,15,656.55,3720.45,3720.45,Cash on Delivery,Returned
+FK2025000885,2025-08-01,CUST00072,Ahmedabad,Beauty,Face Wash,1,394,25,98.5,295.5,295.5,Net Banking,Cancelled
+FK2025000886,2025-06-21,CUST00034,Ahmedabad,Electronics,Laptop,1,47826,15,7173.9,40652.1,40652.1,Cash on Delivery,Returned
+FK2025000887,2025-03-31,CUST00285,Lucknow,Electronics,Laptop,1,29866,10,2986.6,26879.4,26879.4,Net Banking,Cancelled
+FK2025000888,2025-10-11,CUST00252,Mumbai,Electronics,Headphones,1,3763,15,564.45,3198.55,3198.55,Debit Card,Delivered
+FK2025000889,2025-04-25,CUST00014,Mumbai,Sports,Cricket Bat,1,3288,25,822.0,2466.0,2466.0,Credit Card,Cancelled
+FK2025000890,2025-03-05,CUST00335,Chennai,Fashion,Jeans,3,2028,30,608.4,1419.6,4258.8,Cash on Delivery,Cancelled
+FK2025000891,2025-01-15,CUST00062,Chennai,Electronics,Headphones,2,8558,25,2139.5,6418.5,12837.0,Cash on Delivery,Delivered
+FK2025000892,2025-10-17,CUST00224,Chennai,Electronics,Laptop,2,107496,20,21499.2,85996.8,171993.6,Cash on Delivery,Cancelled
+FK2025000893,2025-05-13,CUST00084,Ahmedabad,Electronics,Laptop,1,77915,20,15583.0,62332.0,62332.0,UPI,Delivered
+FK2025000894,2025-07-02,CUST00084,Mumbai,Electronics,Headphones,1,5736,25,1434.0,4302.0,4302.0,Debit Card,Delivered
+FK2025000895,2025-05-29,CUST00150,Jaipur,Home & Kitchen,Mixer Grinder,1,4935,10,493.5,4441.5,4441.5,UPI,Delivered
+FK2025000896,2025-11-03,CUST00386,Bengaluru,Books,Fiction Book,2,347,5,17.35,329.65,659.3,Net Banking,Delivered
+FK2025000897,2025-05-19,CUST00351,Kolkata,Home & Kitchen,Mixer Grinder,2,4089,25,1022.25,3066.75,6133.5,UPI,Delivered
+FK2025000898,2025-03-12,CUST00266,Chennai,Books,Fiction Book,1,742,5,37.1,704.9,704.9,Debit Card,Delivered
+FK2025000899,2025-04-22,CUST00080,Jaipur,Beauty,Face Wash,1,520,5,26.0,494.0,494.0,Credit Card,Delivered
+FK2025000900,2025-09-30,CUST00365,Jaipur,Fashion,T-Shirt,1,1443,30,432.9,1010.1,1010.1,UPI,Returned
+FK2025000901,2025-01-09,CUST00246,Kolkata,Home & Kitchen,Bedsheet,2,1442,0,0.0,1442.0,2884.0,Debit Card,Delivered
+FK2025000902,2025-06-25,CUST00089,Chennai,Home & Kitchen,Mixer Grinder,2,2637,20,527.4,2109.6,4219.2,UPI,Returned
+FK2025000903,2025-12-19,CUST00117,Chennai,Electronics,Laptop,1,58143,25,14535.75,43607.25,43607.25,Credit Card,Delivered
+FK2025000904,2025-02-09,CUST00010,Lucknow,Fashion,T-Shirt,4,565,15,84.75,480.25,1921.0,Cash on Delivery,Delivered
+FK2025000905,2025-10-31,CUST00031,Lucknow,Electronics,Smartphone,1,21867,30,6560.1,15306.9,15306.9,UPI,Returned
+FK2025000906,2025-02-19,CUST00401,Delhi,Fashion,Jeans,1,976,25,244.0,732.0,732.0,Net Banking,Delivered
+FK2025000907,2025-02-16,CUST00075,Chennai,Fashion,T-Shirt,1,708,10,70.8,637.2,637.2,Net Banking,Delivered
+FK2025000908,2025-05-04,CUST00259,Ahmedabad,Home & Kitchen,Mixer Grinder,1,4384,20,876.8,3507.2,3507.2,UPI,Returned
+FK2025000909,2025-04-09,CUST00494,Chennai,Electronics,Laptop,2,104776,20,20955.2,83820.8,167641.6,Credit Card,Delivered
+FK2025000910,2025-09-16,CUST00436,Lucknow,Books,Fiction Book,3,153,0,0.0,153.0,459.0,Debit Card,Delivered
+FK2025000911,2025-07-01,CUST00195,Pune,Sports,Cricket Bat,1,2315,0,0.0,2315.0,2315.0,Credit Card,Delivered
+FK2025000912,2025-03-05,CUST00239,Delhi,Books,Fiction Book,1,382,30,114.6,267.4,267.4,Net Banking,Delivered
+FK2025000913,2025-10-13,CUST00370,Mumbai,Electronics,Headphones,2,8622,25,2155.5,6466.5,12933.0,UPI,Delivered
+FK2025000914,2025-11-04,CUST00377,Chennai,Home & Kitchen,Mixer Grinder,1,5543,10,554.3,4988.7,4988.7,Cash on Delivery,Cancelled
+FK2025000915,2025-04-07,CUST00439,Delhi,Fashion,T-Shirt,1,1433,30,429.9,1003.1,1003.1,Cash on Delivery,Cancelled
+FK2025000916,2025-12-11,CUST00054,Pune,Home & Kitchen,Mixer Grinder,1,2967,25,741.75,2225.25,2225.25,Cash on Delivery,Cancelled
+FK2025000917,2025-07-22,CUST00206,Ahmedabad,Books,Fiction Book,1,823,0,0.0,823.0,823.0,UPI,Delivered
+FK2025000918,2025-04-13,CUST00305,Pune,Electronics,Headphones,1,1559,5,77.95,1481.05,1481.05,UPI,Delivered
+FK2025000919,2025-10-31,CUST00140,Pune,Fashion,T-Shirt,2,1168,10,116.8,1051.2,2102.4,Debit Card,Returned
+FK2025000920,2025-03-17,CUST00394,Lucknow,Beauty,Face Wash,4,513,20,102.6,410.4,1641.6,UPI,Delivered
+FK2025000921,2025-01-16,CUST00051,Mumbai,Electronics,Laptop,1,61857,5,3092.85,58764.15,58764.15,UPI,Delivered
+FK2025000922,2025-12-14,CUST00168,Bengaluru,Beauty,Face Wash,3,126,15,18.9,107.1,321.3,Debit Card,Returned
+FK2025000923,2025-09-10,CUST00406,Lucknow,Sports,Cricket Bat,1,5904,0,0.0,5904.0,5904.0,Credit Card,Returned
+FK2025000924,2025-06-25,CUST00415,Jaipur,Fashion,Jeans,1,2838,10,283.8,2554.2,2554.2,Net Banking,Returned
+FK2025000925,2025-07-16,CUST00231,Kolkata,Electronics,Smartphone,1,59066,15,8859.9,50206.1,50206.1,Cash on Delivery,Delivered
+FK2025000926,2025-12-04,CUST00441,Chennai,Beauty,Face Wash,1,569,5,28.45,540.55,540.55,Credit Card,Returned
+FK2025000927,2025-09-07,CUST00392,Delhi,Beauty,Face Wash,1,540,25,135.0,405.0,405.0,Net Banking,Cancelled
+FK2025000928,2025-09-01,CUST00288,Bengaluru,Beauty,Face Wash,1,666,20,133.2,532.8,532.8,Net Banking,Cancelled
+FK2025000929,2025-11-12,CUST00347,Kolkata,Electronics,Smartphone,1,34648,20,6929.6,27718.4,27718.4,Debit Card,Cancelled
+FK2025000930,2025-07-07,CUST00179,Ahmedabad,Home & Kitchen,Mixer Grinder,1,2002,0,0.0,2002.0,2002.0,UPI,Delivered
+FK2025000931,2025-07-30,CUST00180,Mumbai,Home & Kitchen,Mixer Grinder,1,4616,10,461.6,4154.4,4154.4,Credit Card,Delivered
+FK2025000932,2025-12-19,CUST00034,Chennai,Fashion,T-Shirt,1,779,20,155.8,623.2,623.2,UPI,Delivered
+FK2025000933,2025-08-24,CUST00337,Pune,Home & Kitchen,Mixer Grinder,1,2889,10,288.9,2600.1,2600.1,Net Banking,Delivered
+FK2025000934,2025-10-29,CUST00012,Kolkata,Books,Fiction Book,1,580,25,145.0,435.0,435.0,Cash on Delivery,Cancelled
+FK2025000935,2025-02-21,CUST00354,Hyderabad,Sports,Cricket Bat,1,3996,0,0.0,3996.0,3996.0,Debit Card,Cancelled
+FK2025000936,2025-03-27,CUST00315,Chennai,Beauty,Face Wash,2,613,25,153.25,459.75,919.5,Debit Card,Delivered
+FK2025000937,2025-10-02,CUST00110,Chennai,Home & Kitchen,Bedsheet,1,912,30,273.6,638.4,638.4,Debit Card,Delivered
+FK2025000938,2025-11-16,CUST00381,Delhi,Electronics,Smartphone,4,28484,15,4272.6,24211.4,96845.6,Net Banking,Delivered
+FK2025000939,2025-09-29,CUST00244,Pune,Electronics,Laptop,1,106575,0,0.0,106575.0,106575.0,Credit Card,Returned
+FK2025000940,2025-06-03,CUST00222,Jaipur,Home & Kitchen,Mixer Grinder,1,2127,10,212.7,1914.3,1914.3,Debit Card,Returned
+FK2025000941,2025-08-21,CUST00344,Jaipur,Fashion,T-Shirt,1,1147,20,229.4,917.6,917.6,Credit Card,Returned
+FK2025000942,2025-10-23,CUST00256,Hyderabad,Electronics,Smartphone,2,50145,30,15043.5,35101.5,70203.0,Cash on Delivery,Delivered
+FK2025000943,2025-10-17,CUST00373,Mumbai,Fashion,Jeans,2,2981,30,894.3,2086.7,4173.4,Net Banking,Cancelled
+FK2025000944,2025-12-17,CUST00392,Chennai,Fashion,T-Shirt,1,1045,5,52.25,992.75,992.75,Cash on Delivery,Delivered
+FK2025000945,2025-07-31,CUST00137,Chennai,Home & Kitchen,Bedsheet,2,1151,0,0.0,1151.0,2302.0,Credit Card,Delivered
+FK2025000946,2025-04-09,CUST00015,Hyderabad,Fashion,Jeans,1,1766,0,0.0,1766.0,1766.0,Debit Card,Delivered
+FK2025000947,2025-11-28,CUST00464,Mumbai,Beauty,Face Wash,1,596,15,89.4,506.6,506.6,Credit Card,Cancelled
+FK2025000948,2025-12-04,CUST00282,Bengaluru,Electronics,Headphones,1,4967,10,496.7,4470.3,4470.3,UPI,Delivered
+FK2025000949,2025-11-05,CUST00153,Delhi,Beauty,Face Wash,1,119,0,0.0,119.0,119.0,Cash on Delivery,Delivered
+FK2025000950,2025-05-01,CUST00058,Ahmedabad,Home & Kitchen,Mixer Grinder,2,6884,15,1032.6,5851.4,11702.8,Net Banking,Delivered
+FK2025000951,2025-05-09,CUST00255,Delhi,Electronics,Laptop,1,97413,20,19482.6,77930.4,77930.4,Credit Card,Returned
+FK2025000952,2025-10-27,CUST00378,Pune,Sports,Cricket Bat,2,1800,10,180.0,1620.0,3240.0,Credit Card,Delivered
+FK2025000953,2025-05-21,CUST00226,Pune,Home & Kitchen,Bedsheet,1,945,5,47.25,897.75,897.75,Debit Card,Delivered
+FK2025000954,2025-06-12,CUST00280,Pune,Sports,Cricket Bat,1,1257,10,125.7,1131.3,1131.3,Cash on Delivery,Delivered
+FK2025000955,2025-09-01,CUST00367,Kolkata,Fashion,T-Shirt,2,867,5,43.35,823.65,1647.3,Debit Card,Delivered
+FK2025000956,2025-12-06,CUST00410,Mumbai,Electronics,Smartphone,3,51295,20,10259.0,41036.0,123108.0,Credit Card,Delivered
+FK2025000957,2025-12-17,CUST00063,Jaipur,Fashion,Jeans,1,2374,25,593.5,1780.5,1780.5,Credit Card,Delivered
+FK2025000958,2025-06-04,CUST00047,Hyderabad,Beauty,Face Wash,1,496,15,74.4,421.6,421.6,Debit Card,Delivered
+FK2025000959,2025-11-26,CUST00209,Mumbai,Fashion,T-Shirt,2,627,25,156.75,470.25,940.5,Debit Card,Delivered
+FK2025000960,2025-08-05,CUST00449,Delhi,Electronics,Laptop,1,93446,15,14016.9,79429.1,79429.1,Credit Card,Delivered
+FK2025000961,2025-10-08,CUST00378,Kolkata,Fashion,Jeans,1,2872,15,430.8,2441.2,2441.2,Cash on Delivery,Returned
+FK2025000962,2025-11-19,CUST00228,Bengaluru,Electronics,Smartphone,1,58935,25,14733.75,44201.25,44201.25,UPI,Delivered
+FK2025000963,2025-02-12,CUST00057,Bengaluru,Home & Kitchen,Bedsheet,1,908,10,90.8,817.2,817.2,Credit Card,Returned
+FK2025000964,2025-11-01,CUST00352,Pune,Books,Fiction Book,3,879,30,263.7,615.3,1845.9,Debit Card,Delivered
+FK2025000965,2025-03-30,CUST00352,Ahmedabad,Beauty,Face Wash,2,588,5,29.4,558.6,1117.2,Debit Card,Delivered
+FK2025000966,2025-07-21,CUST00449,Pune,Fashion,Jeans,1,1612,10,161.2,1450.8,1450.8,Net Banking,Delivered
+FK2025000967,2025-11-17,CUST00118,Delhi,Fashion,T-Shirt,3,341,20,68.2,272.8,818.4,Cash on Delivery,Returned
+FK2025000968,2025-07-25,CUST00317,Pune,Fashion,T-Shirt,2,835,5,41.75,793.25,1586.5,Net Banking,Delivered
+FK2025000969,2025-10-18,CUST00061,Mumbai,Fashion,Jeans,1,1410,10,141.0,1269.0,1269.0,Net Banking,Delivered
+FK2025000970,2025-03-02,CUST00115,Hyderabad,Home & Kitchen,Bedsheet,2,2082,15,312.3,1769.7,3539.4,Credit Card,Cancelled
+FK2025000971,2025-08-09,CUST00439,Hyderabad,Fashion,Jeans,2,1978,15,296.7,1681.3,3362.6,Net Banking,Delivered
+FK2025000972,2025-04-03,CUST00210,Bengaluru,Fashion,T-Shirt,2,878,5,43.9,834.1,1668.2,UPI,Cancelled
+FK2025000973,2025-07-09,CUST00299,Lucknow,Fashion,Jeans,1,1871,15,280.65,1590.35,1590.35,UPI,Delivered
+FK2025000974,2025-12-18,CUST00109,Pune,Electronics,Smartphone,1,39727,10,3972.7,35754.3,35754.3,Cash on Delivery,Cancelled
+FK2025000975,2025-01-27,CUST00171,Hyderabad,Sports,Cricket Bat,1,2898,20,579.6,2318.4,2318.4,Cash on Delivery,Delivered
+FK2025000976,2025-12-30,CUST00384,Mumbai,Home & Kitchen,Mixer Grinder,3,6466,30,1939.8,4526.2,13578.6,UPI,Returned
+FK2025000977,2025-12-10,CUST00190,Bengaluru,Fashion,Jeans,1,2865,10,286.5,2578.5,2578.5,Net Banking,Cancelled
+FK2025000978,2025-09-10,CUST00477,Kolkata,Electronics,Smartphone,1,47041,5,2352.05,44688.95,44688.95,Cash on Delivery,Returned
+FK2025000979,2025-03-14,CUST00134,Delhi,Electronics,Headphones,1,1967,20,393.4,1573.6,1573.6,Debit Card,Cancelled
+FK2025000980,2025-07-04,CUST00475,Pune,Electronics,Smartphone,1,17379,30,5213.7,12165.3,12165.3,Debit Card,Delivered
+FK2025000981,2025-06-11,CUST00378,Lucknow,Fashion,Jeans,1,1879,15,281.85,1597.15,1597.15,Credit Card,Delivered
+FK2025000982,2025-04-07,CUST00077,Mumbai,Books,Fiction Book,1,822,15,123.3,698.7,698.7,Credit Card,Delivered
+FK2025000983,2025-08-12,CUST00060,Lucknow,Electronics,Headphones,1,1086,5,54.3,1031.7,1031.7,UPI,Cancelled
+FK2025000984,2025-08-23,CUST00253,Delhi,Beauty,Face Wash,4,464,20,92.8,371.2,1484.8,Credit Card,Cancelled
+FK2025000985,2025-04-03,CUST00428,Bengaluru,Electronics,Laptop,1,74822,30,22446.6,52375.4,52375.4,Net Banking,Delivered
+FK2025000986,2025-10-20,CUST00093,Pune,Fashion,Jeans,1,1668,0,0.0,1668.0,1668.0,UPI,Returned
+FK2025000987,2025-05-26,CUST00349,Delhi,Fashion,T-Shirt,1,1319,10,131.9,1187.1,1187.1,Cash on Delivery,Delivered
+FK2025000988,2025-03-20,CUST00015,Delhi,Home & Kitchen,Mixer Grinder,3,6335,0,0.0,6335.0,19005.0,Cash on Delivery,Delivered
+FK2025000989,2025-12-03,CUST00003,Kolkata,Beauty,Face Wash,1,563,10,56.3,506.7,506.7,UPI,Returned
+FK2025000990,2025-03-08,CUST00109,Mumbai,Sports,Cricket Bat,1,4510,25,1127.5,3382.5,3382.5,Debit Card,Returned
+FK2025000991,2025-07-15,CUST00048,Pune,Home & Kitchen,Mixer Grinder,2,1953,20,390.6,1562.4,3124.8,Debit Card,Returned
+FK2025000992,2025-02-15,CUST00011,Hyderabad,Electronics,Headphones,3,4432,30,1329.6,3102.4,9307.2,Credit Card,Cancelled
+FK2025000993,2025-03-03,CUST00153,Lucknow,Home & Kitchen,Bedsheet,1,2095,25,523.75,1571.25,1571.25,Cash on Delivery,Delivered
+FK2025000994,2025-09-20,CUST00103,Lucknow,Fashion,Jeans,1,1336,0,0.0,1336.0,1336.0,Cash on Delivery,Delivered
+FK2025000995,2025-02-16,CUST00388,Pune,Home & Kitchen,Bedsheet,1,1474,20,294.8,1179.2,1179.2,Debit Card,Cancelled
+FK2025000996,2025-01-21,CUST00263,Kolkata,Sports,Cricket Bat,1,2325,15,348.75,1976.25,1976.25,Cash on Delivery,Delivered
+FK2025000997,2025-02-12,CUST00149,Lucknow,Fashion,T-Shirt,3,616,20,123.2,492.8,1478.4,Cash on Delivery,Returned
+FK2025000998,2025-05-08,CUST00268,Pune,Electronics,Laptop,1,91600,5,4580.0,87020.0,87020.0,Debit Card,Delivered
+FK2025000999,2025-02-25,CUST00262,Pune,Sports,Cricket Bat,1,1189,0,0.0,1189.0,1189.0,Cash on Delivery,Returned
+FK2025001000,2025-07-01,CUST00131,Ahmedabad,Electronics,Laptop,1,89902,20,17980.4,71921.6,71921.6,UPI,Delivered
